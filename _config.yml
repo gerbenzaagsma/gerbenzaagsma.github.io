@@ -89,14 +89,14 @@ author:
   email            : "gerben.zaagsma@uni.lu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  github           : "@gerbenzaagsma" 
+  github           : "https://github.com/gerbenzaagsma/" 
   lastfm           :
   linkedin         :  "@gerbenzaagsma"
   orcid            : "https://orcid.org/0000-0002-5978-9769"
   pinterest        :
   soundcloud       :
   twitter          : "@gerbenzaagsma"
-  mastodon         : "https://mastodon.green/@gerbenzaagsma"
+  mastodon         : "@gerbenzaagsma"
   xing             :
   youtube          :
   wikipedia        :
