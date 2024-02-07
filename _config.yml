@@ -85,7 +85,7 @@ author:
   bio              : "Historian"
   location         : "Location"
   employer         :
-  pubmed           : 
+  pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=rFhzgnoAAAAJ&hl"
   email            : "gerben.zaagsma@uni.lu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
