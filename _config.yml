@@ -85,32 +85,17 @@ author:
   bio              : "Historian"
   location         : "Location"
   employer         :
-  pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=rFhzgnoAAAAJ&hl"
   email            : "gerben.zaagsma@uni.lu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "gerbenzaagsma" 
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  github           : "@gerbenzaagsma" 
   lastfm           :
   linkedin         :  "@gerbenzaagsma"
   orcid            : "https://orcid.org/0000-0002-5978-9769"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : "@gerbenzaagsma"
-  vine             :
   mastodon         : "https://mastodon.green/@gerbenzaagsma"
   xing             :
   youtube          :
