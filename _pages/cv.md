@@ -59,9 +59,9 @@ Modern European history; Jewish history; digital history; public history; music 
   - MA seminar _Digital Approaches to Modern Jewish History_.
   - MA seminar _Jewish responses to Persecution and Anti-Semitism in the 20th Century_.
 - 2015-2016. BA seminar _Jewish Responses to Persecution and Anti-Semitism in the 20th century_, Seminar für Neuere und Neueste Geschichte, Georg-August Universität Göttingen.
-- 2013. Seminar _Digital Historical Research_ at the Huygens Institute for the History of the Netherlands and the NIOD Institute for War, Holocaust and Genocide Studies.
+- "2013". Seminar _Digital Historical Research_ at the Huygens Institute for the History of the Netherlands and the NIOD Institute for War, Holocaust and Genocide Studies.
 - 2008-present. Various (invited) lectures & skills seminars taught on modern Jewish history and digital humanities in the UK, France, Luxembourg, Netherlands, for undergraduate/graduate/postgraduate students.
-- 1997. Seminar _Jewish History in the Netherlands and the City of Groningen_, Adult Education Academy, University of Groningen.
+- "1997". Seminar _Jewish History in the Netherlands and the City of Groningen_, Adult Education Academy, University of Groningen.
 
 
 
