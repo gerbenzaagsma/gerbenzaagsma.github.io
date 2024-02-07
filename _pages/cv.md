@@ -22,7 +22,6 @@ M: [gerben.zaagsma@uni.lu](mailto:gerben.zaagsma@uni.lu)
 W: [https://www.c2dh.uni.lu/people/gerben-zaagsma](https://www.c2dh.uni.lu/people/gerben-zaagsma)
  W: [https://gerbenzaagsma.org](https://gerbenzaagsma.org/)
 
-[![](RackMultipart20240207-1-35jol0_html_923506e51538a77e.png)](https://orcid.org/0000-0002-5978-9769)https://orcid.org/0000-0002-5978-9769
 
 
 
