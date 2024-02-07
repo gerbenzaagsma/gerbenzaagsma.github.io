@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in Contemporary and Digital History at the [Centre for Contemporary and Digital History (C²DH)](https://www.c2dh.uni.lu/) of the University of Luxemburg.
+Hello and welcome. I am an Assistant Professor in Contemporary and Digital History at the [Centre for Contemporary and Digital History (C²DH)](https://www.c2dh.uni.lu/) of the University of Luxemburg with research and teaching interests in modern Jewish, digital, public, and music history
 
 I hold a Ph.D. in modern history from the European University Institute (EUI) in Florence. My main research and teaching interests are modern Jewish history, digital history, and music history. 
 
