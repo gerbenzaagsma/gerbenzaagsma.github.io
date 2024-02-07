@@ -85,9 +85,9 @@ author:
   bio              : "Historian"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rFhzgnoAAAAJ&hl"
-  email            :
+  email            : "gerben.zaagsma@uni.lu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/gerbenzaagsma"
   google_plus      :
   keybase          :
   instagram        :
@@ -111,7 +111,7 @@ author:
   tumblr           :
   twitter          : "@gerbenzaagsma"
   vine             :
-  weibo            :
+  mastodon         : "https://mastodon.green/@gerbenzaagsma/109868310560219610"
   xing             :
   youtube          :
   wikipedia        :
