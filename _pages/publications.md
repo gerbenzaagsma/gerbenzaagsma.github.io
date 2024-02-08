@@ -5,29 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 **Forthcoming**
 
-_In preparation:_
-
+_Under review:_
 - Article 'Exploring the History of Digital History'.
 - Article 'Help, betrayal and the importance of networks – Jews in hiding in the Netherlands and the case of Anne Frank' (in edited volume to be published with new critical edition of the Anne Frank diaries, Cambridge University Press, 2024).
 
 **Books**
-
 - [Jewish Volunteers, the International Brigades and the Spanish Civil War](https://web.archive.org/web/20231022070908/http:/www.bloomsbury.com/uk/jewish-volunteers-the-international-brigades-and-the-spanish-civil-war-9781472505491/) (London; Bloomsbury Academic, 2017).
 
 **Edited volumes**
-
 - [Jewish Studies in the Digital Age](https://web.archive.org/web/20231022070908/https:/www.degruyter.com/document/doi/10.1515/9783110744828/html) (Berlin: De Gruyter, 2022). Co-edited with Amalia Levi, Michelle Margolis, Miriam Rürup and Daniel Stökl Ben Ezra.
 - [Handbook of Digital Public History](https://web.archive.org/web/20231022070908/https:/www.degruyter.com/document/doi/10.1515/9783110430295/html) (Berlin: De Gruyter Oldenbourg, 2022). Co-edited with Serge Noiret and Mark Tebeau.
 - [Integrating Digital Humanities](https://web.archive.org/web/20231022070908/https:/journal.dhbenelux.org/volume-1-integrating-digital-humanities/), inaugural issue of [DH Benelux journal](https://web.archive.org/web/20231022070908/http:/journal.dhbenelux.org/) (2019). Co-edited with Julie Birkholz.
@@ -36,7 +24,6 @@ _In preparation:_
 - [The Folkinge Street. History of the Jewish community in Groningen](https://web.archive.org/web/20231022070908/https:/www.worldcat.org/nl/title/469368175) (Groningen; Egbert Forsten, 1996). Co-edited with Lies Ast-Boiten (in Dutch).
 
 **Peer-reviewed articles**
-
 - [Digital History and the Politics of Digitisation](https://web.archive.org/web/20231022070908/https:/doi.org/10.1093/llc/fqac050), _Digital Scholarship in the Humanities_ (2022).
 - [The 'Jewish Freedom Fighter'. The legacy of Naftali Botwin and the construction of a transnational cult of Jewish heroes](https://web.archive.org/web/20231022070908/http:/hdl.handle.net/10993/37715), Clara Royer and Eszter Balasz eds., _The Cult of Heroes in Central Europe (1880-1945) – Transnational and Interdisciplinary Aspects_ (Paris: Eur'Orbem Éditions, 2019).
 - [#DHJewish – Jewish Studies in the digital age](https://web.archive.org/web/20231022070908/https:/www.medaon.de/de/artikel/dhjewish-jewish-studies-in-the-digital-age/), _Medaon_ 23 (2018).
@@ -47,7 +34,6 @@ _In preparation:_
 - ['Red Devils': The Botwin company in the Spanish Civil War](https://web.archive.org/web/20231022070908/https:/www.tandfonline.com/doi/pdf/10.1080/13501670308577990), _East European Jewish Affairs_ 33 (2003) 83-99.
 
 **Book chapters & other articles**
-
 - 'Introduction' in: [Jewish Studies in the Digital Age](https://web.archive.org/web/20231022070908/https:/www.degruyter.com/document/doi/10.1515/9783110744828/html) (Berlin: De Gruyter, 2022). Co-authored with Michelle Margolis, Amalia Levi, Daniel Stökl Ben Ezra and Miriam Rürup.
 - 'Introduction' in: [Handbook of Digital Public History](https://web.archive.org/web/20231022070908/https:/www.degruyter.com/document/doi/10.1515/9783110430295/html) (Berlin: De Gruyter Oldenbourg, 2022) 1-15. Co-authored with Serge Noiret and Mark Tebeau.
 - 'Content Management' in: [Handbook of Digital Public History](https://web.archive.org/web/20231022070908/http:/www.degruyter.com/document/doi/10.1515/9783110430295/html) (Berlin: De Gruyter Oldenbourg, 2022) 433-439.
@@ -61,11 +47,9 @@ _In preparation:_
 - [The klezmorim of Prague. About a Jewish musicians guild](https://web.archive.org/web/20231022070908/https:/www.klezmershack.com/articles/zaagsma.prague.html), _East European Meetings in Ethnomusicology_ 7 (2000) 41-48.
 
 **Miscellaneous writings**
-
 - [Digitising History From a Global Perspective; And What This Tells Us About Access and Inequality](https://web.archive.org/web/20231022070908/https:/blog.royalhistsoc.org/2023/02/22/historical-research-in-the-digital-age-part-5-digitising-history-from-a-global-context-and-what-this-tells-us-about-access-and-inequality/), Part 5 of Royal Historical Society blog series [Historical Research in the Digital Age](https://web.archive.org/web/20231022070908/https:/blog.royalhistsoc.org/category/guest-posts/digital-age/) (22 February 2023).
 
 **Reviews & conference reports**
-
 - [Review: Gildea & Tames eds., Fighters acrossfrontiers. Transnational resistance in Europe, 1936–48](https://web.archive.org/web/20231022070908/https:/journals.ub.uni-heidelberg.de/index.php/frrec/article/view/89232), in Francia-Recensio 2022/2.
 - [Review: A. Crymble: Technology and the Historian (Urbana 2021)](https://web.archive.org/web/20231022070908/http:/www.hsozkult.de/publicationreview/id/reb-94448), in: H-Soz-Kult 16.09.2021.
 - [Review: Mapping Modern Jewish Cultures](https://web.archive.org/web/20231022070908/https:/reviewsindh.pubpub.org/pub/mapping-modern-jewish-cultures/release/1), Reviews in Digital Humanities, "Jewish Digital Humanities" Special Issue 2/1 (January 2021).
@@ -75,7 +59,6 @@ _In preparation:_
 - [Review of Thomas Rütten, _Geschichten vom Hippokratischen Eid_ (Wiesbaden: Harrassowitz Verlag 2007)](https://web.archive.org/web/20231022070908/http:/doi.org/10.18352/studium.1456) in: _Studium_ 1 (2008) 301-302.
 
 **Interviews**
-
 As part of the 2019-2021 Lecture series [New Horizons: Confronting the Digital Turn in the Humanities](https://web.archive.org/web/20231022070908/https:/www.c2dh.uni.lu/data/new-horizons-confronting-digital-turn-humanities):
 
 - 30-01-2019 - Interview with Prof. Dr Andrew Prescott (University of Glasgow).
@@ -87,11 +70,9 @@ As part of the 2019-2021 Lecture series [New Horizons: Confronting the Digital T
 - 04-03-2021 - Interview with Dr. Smiljana Antonijević (Illinois Institute of Technology - Institute of Design).
 
 **Datasets**
-
 - [Yiddish Periodicals in Germany v1](https://web.archive.org/web/20231022070908/https:/github.com/gerbenzaagsma/yiddish-periodicals-germany).
 
 **Websites**
-
 - [as developer/co-editor] [#DHJEwish - Jewish Studies and Digital Humanities](https://web.archive.org/web/20231022070908/https:/dhjewish.org/) portal.
 - [as developer] [Historici.nl](https://web.archive.org/web/20231022070908/https:/www.historici.nl/) (version 2011-2013).
 - [as developer/co-editor since 2008-2021] [European History Primary Sources](https://web.archive.org/web/20231022070908/https:/web.archive.org/web/*/http:/primary-sources.eui.eu/) (discontinued, link to Wayback Machine archive).
