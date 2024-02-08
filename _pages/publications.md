@@ -12,10 +12,9 @@ _Under review:_
 - Article 'Exploring the History of Digital History'.
 - Article 'Help, betrayal and the importance of networks – Jews in hiding in the Netherlands and the case of Anne Frank' (in edited volume to be published with new critical edition of the Anne Frank diaries, Cambridge University Press, 2024).
 
-**Books**
-- [Jewish Volunteers, the International Brigades and the Spanish Civil War](https://web.archive.org/web/20231022070908/http:/www.bloomsbury.com/uk/jewish-volunteers-the-international-brigades-and-the-spanish-civil-war-9781472505491/) (London; Bloomsbury Academic, 2017).
+## Books & edited volumes
 
-**Edited volumes**
+- [Jewish Volunteers, the International Brigades and the Spanish Civil War](https://web.archive.org/web/20231022070908/http:/www.bloomsbury.com/uk/jewish-volunteers-the-international-brigades-and-the-spanish-civil-war-9781472505491/) (London; Bloomsbury Academic, 2017).
 - [Jewish Studies in the Digital Age](https://web.archive.org/web/20231022070908/https:/www.degruyter.com/document/doi/10.1515/9783110744828/html) (Berlin: De Gruyter, 2022). Co-edited with Amalia Levi, Michelle Margolis, Miriam Rürup and Daniel Stökl Ben Ezra.
 - [Handbook of Digital Public History](https://web.archive.org/web/20231022070908/https:/www.degruyter.com/document/doi/10.1515/9783110430295/html) (Berlin: De Gruyter Oldenbourg, 2022). Co-edited with Serge Noiret and Mark Tebeau.
 - [Integrating Digital Humanities](https://web.archive.org/web/20231022070908/https:/journal.dhbenelux.org/volume-1-integrating-digital-humanities/), inaugural issue of [DH Benelux journal](https://web.archive.org/web/20231022070908/http:/journal.dhbenelux.org/) (2019). Co-edited with Julie Birkholz.
