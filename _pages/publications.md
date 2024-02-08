@@ -9,8 +9,8 @@ author_profile: true
 
 ## Under review:
 ---
-* Article 'Exploring the History of Digital History'.
-* Article 'Help, betrayal and the importance of networks – Jews in hiding in the Netherlands and the case of Anne Frank' (in edited volume to be published with new critical edition of the Anne Frank diaries, Cambridge University Press, 2024).
+* Article _Facing the History Machine: Towards Histories of Digital History_ (History of Humanities).
+* Chapter _Help, betrayal and the importance of networks – Jews in hiding in the Netherlands and the case of Anne Frank_ (in edited volume to be published with new critical edition of the Anne Frank diaries, Cambridge University Press, 2024).
 
 
 
