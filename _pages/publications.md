@@ -76,13 +76,13 @@ author_profile: true
 ## Interviews
 ---
 As part of the 2019-2021 Lecture series [New Horizons: Confronting the Digital Turn in the Humanities](https://web.archive.org/web/20231022070908/https:/www.c2dh.uni.lu/data/new-horizons-confronting-digital-turn-humanities):
-- 30-01-2019 - Interview with Prof. Dr Andrew Prescott (University of Glasgow).
-- 29-05-2019 - Interview with Prof. Dr Tim Hitchcock (University of Sussex).
-- 26-06-2019 - Interview with Prof. Dr David Bodenhamer (Indiana University-Purdue University Indianapolis).
-- 18-09-2019 - Interview with Prof. Dr Jane Winters (School of Advanced Study, University of London).
-- 06-11-2019 - Interview with Prof. Dr Steven E. Jones (University of South Florida).
-- 27-11-2019 - Interview with Dr. Melvin Wevers (University of Amsterdam).
-- 04-03-2021 - Interview with Dr. Smiljana Antonijević (Illinois Institute of Technology - Institute of Design).
+- 30-01-2019. Interview with Prof. Dr Andrew Prescott (University of Glasgow).
+- 29-05-2019. Interview with Prof. Dr Tim Hitchcock (University of Sussex).
+- 26-06-2019. Interview with Prof. Dr David Bodenhamer (Indiana University-Purdue University Indianapolis).
+- 18-09-2019. Interview with Prof. Dr Jane Winters (School of Advanced Study, University of London).
+- 06-11-2019. Interview with Prof. Dr Steven E. Jones (University of South Florida).
+- 27-11-2019. Interview with Dr. Melvin Wevers (University of Amsterdam).
+- 04-03-2021. Interview with Dr. Smiljana Antonijević (Illinois Institute of Technology - Institute of Design).
 
 
 
@@ -97,4 +97,4 @@ As part of the 2019-2021 Lecture series [New Horizons: Confronting the Digital T
 - [as developer/co-editor] [#DHJEwish - Jewish Studies and Digital Humanities](https://web.archive.org/web/20231022070908/https:/dhjewish.org/) portal.
 - [as developer] [Historici.nl](https://web.archive.org/web/20231022070908/https:/www.historici.nl/) (version 2011-2013).
 - [as developer/co-editor since 2008-2021] [European History Primary Sources](https://web.archive.org/web/20231022070908/https:/web.archive.org/web/*/http:/primary-sources.eui.eu/) (discontinued, link to Wayback Machine archive).
-- [as developer/editor since 2005] [Yiddish Sources](https://web.archive.org/web/20231022070908/http:/yiddish-sources.com/) (discontinued).
+- [as developer/editor since 2005] [Yiddish Sources](https://web.archive.org/web/20231022070908/http:/yiddish-sources.com/) (discontinued, link to Wayback Machine archive).
