@@ -24,7 +24,8 @@ author_profile: true
 - _Life and Work of Ferdinand Domela Nieuwenhuis_ (CD-ROM; University of Groningen, 1998). Editor (in Dutch).
 - [The Folkinge Street. History of the Jewish community in Groningen](https://web.archive.org/web/20231022070908/https:/www.worldcat.org/nl/title/469368175) (Groningen; Egbert Forsten, 1996). Co-edited with Lies Ast-Boiten (in Dutch).
 
-**Peer-reviewed articles**
+## Peer-reviewed articles
+---
 - [Digital History and the Politics of Digitisation](https://web.archive.org/web/20231022070908/https:/doi.org/10.1093/llc/fqac050), _Digital Scholarship in the Humanities_ (2022).
 - [The 'Jewish Freedom Fighter'. The legacy of Naftali Botwin and the construction of a transnational cult of Jewish heroes](https://web.archive.org/web/20231022070908/http:/hdl.handle.net/10993/37715), Clara Royer and Eszter Balasz eds., _The Cult of Heroes in Central Europe (1880-1945) – Transnational and Interdisciplinary Aspects_ (Paris: Eur'Orbem Éditions, 2019).
 - [#DHJewish – Jewish Studies in the digital age](https://web.archive.org/web/20231022070908/https:/www.medaon.de/de/artikel/dhjewish-jewish-studies-in-the-digital-age/), _Medaon_ 23 (2018).
