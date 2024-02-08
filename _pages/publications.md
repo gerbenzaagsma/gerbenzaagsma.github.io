@@ -16,10 +16,11 @@ author_profile: true
 
 ## Books & edited volumes
 ---
-- [Jewish Volunteers, the International Brigades and the Spanish Civil War](https://web.archive.org/web/20231022070908/http:/www.bloomsbury.com/uk/jewish-volunteers-the-international-brigades-and-the-spanish-civil-war-9781472505491/) (London; Bloomsbury Academic, 2017).
-- [Jewish Studies in the Digital Age](https://web.archive.org/web/20231022070908/https:/www.degruyter.com/document/doi/10.1515/9783110744828/html) (Berlin: De Gruyter, 2022). Co-edited with Amalia Levi, Michelle Margolis, Miriam Rürup and Daniel Stökl Ben Ezra.
+
 - [Handbook of Digital Public History](https://web.archive.org/web/20231022070908/https:/www.degruyter.com/document/doi/10.1515/9783110430295/html) (Berlin: De Gruyter Oldenbourg, 2022). Co-edited with Serge Noiret and Mark Tebeau.
+- [Jewish Studies in the Digital Age](https://web.archive.org/web/20231022070908/https:/www.degruyter.com/document/doi/10.1515/9783110744828/html) (Berlin: De Gruyter, 2022). Co-edited with Amalia Levi, Michelle Margolis, Miriam Rürup and Daniel Stökl Ben Ezra.
 - [Integrating Digital Humanities](https://web.archive.org/web/20231022070908/https:/journal.dhbenelux.org/volume-1-integrating-digital-humanities/), inaugural issue of [DH Benelux journal](https://web.archive.org/web/20231022070908/http:/journal.dhbenelux.org/) (2019). Co-edited with Julie Birkholz.
+- [Jewish Volunteers, the International Brigades and the Spanish Civil War](https://web.archive.org/web/20231022070908/http:/www.bloomsbury.com/uk/jewish-volunteers-the-international-brigades-and-the-spanish-civil-war-9781472505491/) (London; Bloomsbury Academic, 2017).
 - [Digital History](https://web.archive.org/web/20231022070908/https:/bmgn-lchr.nl/issue/view/31), special issue _BMGN - Low Countries Historical Review_ 128/4 (2013). Editor.
 - _Life and Work of Ferdinand Domela Nieuwenhuis_ (CD-ROM; University of Groningen, 1998). Editor (in Dutch).
 - [The Folkinge Street. History of the Jewish community in Groningen](https://web.archive.org/web/20231022070908/https:/www.worldcat.org/nl/title/469368175) (Groningen; Egbert Forsten, 1996). Co-edited with Lies Ast-Boiten (in Dutch).
