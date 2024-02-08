@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome. I am an Assistant Professor in Contemporary and Digital History at the [Centre for Contemporary and Digital History (C²DH)](https://www.c2dh.uni.lu/) of the University of Luxemburg with research and teaching interests in modern Jewish, digital, public, and music history
+Welcome to the website of Gerben Zaagsma. I am an Assistant Professor in Contemporary and Digital History at the [Centre for Contemporary and Digital History (C²DH)](https://www.c2dh.uni.lu/) of the University of Luxemburg with research and teaching interests in modern Jewish, digital, public, and music history.
 
 Previously, I worked as a researcher at the Public History Research and Consultancy Center of the University of Groningen, the Netherlands. I then studied Yiddish at the School of Oriental and African Studies, University of London, before embarking upon my PhD research project at the the European University Institute (EUI) in Florence. I then was a postdoctoral researcher at the Department of Hebrew and Jewish Studies, University College London and an editor, web developer & researcher at the Huygens Institute for the History of the Netherlands, Netherlands Academy of Arts and Sciences. Between 2013-2017, I worked as a research fellow in the project The diaries of Anne Frank. Research—Translations— Critical Edition at the Lichtenberg Kolleg, the Institute of Advanced Study at the University of Göttingen, where I was responsible for the annotations of a new critical scholarly edition of the diaries and conducted research on Jews in hiding in the Netherlands. 
 
