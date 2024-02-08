@@ -8,14 +8,14 @@ author_profile: true
 
 
 ## Under review:
-
 ---
-
 * Article 'Exploring the History of Digital History'.
 * Article 'Help, betrayal and the importance of networks – Jews in hiding in the Netherlands and the case of Anne Frank' (in edited volume to be published with new critical edition of the Anne Frank diaries, Cambridge University Press, 2024).
 
-## Books & edited volumes
 
+
+## Books & edited volumes
+---
 - [Jewish Volunteers, the International Brigades and the Spanish Civil War](https://web.archive.org/web/20231022070908/http:/www.bloomsbury.com/uk/jewish-volunteers-the-international-brigades-and-the-spanish-civil-war-9781472505491/) (London; Bloomsbury Academic, 2017).
 - [Jewish Studies in the Digital Age](https://web.archive.org/web/20231022070908/https:/www.degruyter.com/document/doi/10.1515/9783110744828/html) (Berlin: De Gruyter, 2022). Co-edited with Amalia Levi, Michelle Margolis, Miriam Rürup and Daniel Stökl Ben Ezra.
 - [Handbook of Digital Public History](https://web.archive.org/web/20231022070908/https:/www.degruyter.com/document/doi/10.1515/9783110430295/html) (Berlin: De Gruyter Oldenbourg, 2022). Co-edited with Serge Noiret and Mark Tebeau.
@@ -23,6 +23,8 @@ author_profile: true
 - [Digital History](https://web.archive.org/web/20231022070908/https:/bmgn-lchr.nl/issue/view/31), special issue _BMGN - Low Countries Historical Review_ 128/4 (2013). Editor.
 - _Life and Work of Ferdinand Domela Nieuwenhuis_ (CD-ROM; University of Groningen, 1998). Editor (in Dutch).
 - [The Folkinge Street. History of the Jewish community in Groningen](https://web.archive.org/web/20231022070908/https:/www.worldcat.org/nl/title/469368175) (Groningen; Egbert Forsten, 1996). Co-edited with Lies Ast-Boiten (in Dutch).
+
+
 
 ## Peer-reviewed articles
 ---
@@ -35,7 +37,9 @@ author_profile: true
 - 'The Local and the International - Jewish Communists in Paris Between the Wars', _Simon Dubnow Institute Yearbook_ 8 (2009) 345-363.
 - ['Red Devils': The Botwin company in the Spanish Civil War](https://web.archive.org/web/20231022070908/https:/www.tandfonline.com/doi/pdf/10.1080/13501670308577990), _East European Jewish Affairs_ 33 (2003) 83-99.
 
-**Book chapters & other articles**
+
+## Book chapters & other articles
+---
 - 'Introduction' in: [Jewish Studies in the Digital Age](https://web.archive.org/web/20231022070908/https:/www.degruyter.com/document/doi/10.1515/9783110744828/html) (Berlin: De Gruyter, 2022). Co-authored with Michelle Margolis, Amalia Levi, Daniel Stökl Ben Ezra and Miriam Rürup.
 - 'Introduction' in: [Handbook of Digital Public History](https://web.archive.org/web/20231022070908/https:/www.degruyter.com/document/doi/10.1515/9783110430295/html) (Berlin: De Gruyter Oldenbourg, 2022) 1-15. Co-authored with Serge Noiret and Mark Tebeau.
 - 'Content Management' in: [Handbook of Digital Public History](https://web.archive.org/web/20231022070908/http:/www.degruyter.com/document/doi/10.1515/9783110430295/html) (Berlin: De Gruyter Oldenbourg, 2022) 433-439.
@@ -48,10 +52,16 @@ author_profile: true
 - [Yiddish in Historical Research: Some Reflections](https://web.archive.org/web/20231022070908/http:/www.jstor.org/stable/41444026), _European Judaism_ 42 (2009) 19-23.
 - [The klezmorim of Prague. About a Jewish musicians guild](https://web.archive.org/web/20231022070908/https:/www.klezmershack.com/articles/zaagsma.prague.html), _East European Meetings in Ethnomusicology_ 7 (2000) 41-48.
 
-**Miscellaneous writings**
+
+
+## Miscellaneous writings
+---
 - [Digitising History From a Global Perspective; And What This Tells Us About Access and Inequality](https://web.archive.org/web/20231022070908/https:/blog.royalhistsoc.org/2023/02/22/historical-research-in-the-digital-age-part-5-digitising-history-from-a-global-context-and-what-this-tells-us-about-access-and-inequality/), Part 5 of Royal Historical Society blog series [Historical Research in the Digital Age](https://web.archive.org/web/20231022070908/https:/blog.royalhistsoc.org/category/guest-posts/digital-age/) (22 February 2023).
 
-**Reviews & conference reports**
+
+
+## Reviews & conference reports
+---
 - [Review: Gildea & Tames eds., Fighters acrossfrontiers. Transnational resistance in Europe, 1936–48](https://web.archive.org/web/20231022070908/https:/journals.ub.uni-heidelberg.de/index.php/frrec/article/view/89232), in Francia-Recensio 2022/2.
 - [Review: A. Crymble: Technology and the Historian (Urbana 2021)](https://web.archive.org/web/20231022070908/http:/www.hsozkult.de/publicationreview/id/reb-94448), in: H-Soz-Kult 16.09.2021.
 - [Review: Mapping Modern Jewish Cultures](https://web.archive.org/web/20231022070908/https:/reviewsindh.pubpub.org/pub/mapping-modern-jewish-cultures/release/1), Reviews in Digital Humanities, "Jewish Digital Humanities" Special Issue 2/1 (January 2021).
@@ -60,9 +70,11 @@ author_profile: true
 - [Review of Berg, Hetty, Wallet, Bart (eds_.), Wie niet weg is, is gezien. Joods Nederland na 1945_ (Zwolle: Waanders, 2010)](https://web.archive.org/web/20231022070908/https:/bmgn-lchr.nl/article/view/URN%3ANBN%3ANL%3AUI%3A10-1-108396) in: _BMGN - Low Countries Historical Review_ 126/3 (2011) 146-148.
 - [Review of Thomas Rütten, _Geschichten vom Hippokratischen Eid_ (Wiesbaden: Harrassowitz Verlag 2007)](https://web.archive.org/web/20231022070908/http:/doi.org/10.18352/studium.1456) in: _Studium_ 1 (2008) 301-302.
 
-**Interviews**
-As part of the 2019-2021 Lecture series [New Horizons: Confronting the Digital Turn in the Humanities](https://web.archive.org/web/20231022070908/https:/www.c2dh.uni.lu/data/new-horizons-confronting-digital-turn-humanities):
 
+
+## Interviews
+---
+As part of the 2019-2021 Lecture series [New Horizons: Confronting the Digital Turn in the Humanities](https://web.archive.org/web/20231022070908/https:/www.c2dh.uni.lu/data/new-horizons-confronting-digital-turn-humanities):
 - 30-01-2019 - Interview with Prof. Dr Andrew Prescott (University of Glasgow).
 - 29-05-2019 - Interview with Prof. Dr Tim Hitchcock (University of Sussex).
 - 26-06-2019 - Interview with Prof. Dr David Bodenhamer (Indiana University-Purdue University Indianapolis).
@@ -71,10 +83,16 @@ As part of the 2019-2021 Lecture series [New Horizons: Confronting the Digital T
 - 27-11-2019 - Interview with Dr. Melvin Wevers (University of Amsterdam).
 - 04-03-2021 - Interview with Dr. Smiljana Antonijević (Illinois Institute of Technology - Institute of Design).
 
-**Datasets**
+
+
+## Datasets
+---
 - [Yiddish Periodicals in Germany v1](https://web.archive.org/web/20231022070908/https:/github.com/gerbenzaagsma/yiddish-periodicals-germany).
 
-**Websites**
+
+
+## Websites
+---
 - [as developer/co-editor] [#DHJEwish - Jewish Studies and Digital Humanities](https://web.archive.org/web/20231022070908/https:/dhjewish.org/) portal.
 - [as developer] [Historici.nl](https://web.archive.org/web/20231022070908/https:/www.historici.nl/) (version 2011-2013).
 - [as developer/co-editor since 2008-2021] [European History Primary Sources](https://web.archive.org/web/20231022070908/https:/web.archive.org/web/*/http:/primary-sources.eui.eu/) (discontinued, link to Wayback Machine archive).
