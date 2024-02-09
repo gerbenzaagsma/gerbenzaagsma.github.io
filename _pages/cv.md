@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-<embed src="https://gerbenzaagsma.github.io/files/Zaagsma-CV-20230927.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="/files/Zaagsma-CV-20230927.pdf" type="application/pdf" width="600px" height="500px" />
 
 _Version: 27-09-2023_
 
