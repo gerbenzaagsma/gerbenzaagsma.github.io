@@ -89,6 +89,7 @@ author:
   email            : "gerben.zaagsma@uni.lu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
+  zenodo           : "https://zenodo.org/search?page=1&size=20&q=zaagsma&sort=-publication_date"
   github           : "gerbenzaagsma/" 
   lastfm           :
   linkedin         :  "@gerbenzaagsma"
