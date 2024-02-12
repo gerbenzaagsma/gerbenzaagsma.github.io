@@ -13,3 +13,6 @@ Since joining C²DH in 2017, most of my research has focused on various aspects 
 
 Mu current research, envisaged as a new book project, thus explores the history and genealogies of digital history, set within the broader context of the ways in which technology has shaped historical research practices and knowledge production since the late 19th century. 
 
+
+
+
