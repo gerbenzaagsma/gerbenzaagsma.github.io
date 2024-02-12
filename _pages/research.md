@@ -7,16 +7,9 @@ redirect_from:
 
 ---
 
+Over the years I have worked on quite a variety of topics. Via Jewish folk music research I ended up writing a dissertation on Jewish volunteers who fought in the International Brigades during the Spanish Civil War. This was a study on the nexus between Jewish migration and politics, and especially the engagement of Jews in the Left and questions of identity construction. I continued this work with comparative research on  Jewish responses to fascism and anti-Semitism in Paris and London in the 1930s. While in Göttingen, I was subsequently responsible for the annotations of a new critical scholarly edition of the diaries of Anne Frank and conducted research on Jews in hiding in the Netherlands.
 
-Within the context of digital history, my focus is on the epistemological implications of using new technologies in historical research, in the present as well as the past. As for the present, I am especially interested in the politics of digitisation and digitised cultural heritage, seen from a global perspective. At the same time, I see this as but one aspect (a key one to be sure) of the much broader question of how technology has always shaped, framed and constrainted historical research and thereby affected historical knowledge production.
+Since joining C²DH in 2017, most of my research has focused on various aspects of digital history. I have a longstanding interest in the epistemological implications of using new technologies in historical research, in the present as well as the past. As for the present, I am especially interested in the politics of digitisation and digitised cultural heritage, seen from a global perspective. At the same time, I see this as but one aspect (a key one to be sure) of the much broader question of how technology has always shaped, framed and constrained historical research and thereby affected historical knowledge production.
 
-My current book project thus explores the history and genealogies of digital history, set within the broader context of the ways in which technology has shaped historical research practices and knowledge production since the late 19th century. 
+Mu current research, envisaged as a new book project, thus explores the history and genealogies of digital history, set within the broader context of the ways in which technology has shaped historical research practices and knowledge production since the late 19th century. 
 
-I am also the project lead and one of the editors of the portal [#DHJewish - Jewish Studies and Digital Humanities](dhjewish.org).
-
-
-I joined the C²DH in August 2017 and was Head of the Research Area Digital History & Historiography until December 2020, when it merged with the center’s DHARPA team. 
-
-On behalf of C²DH I also serve on the Ethics Review Panel (ERP) of the University of Luxembourg.
-
-For a full CV and list of publications see elsewhere on this website. Several recent papers and lectures can also be found on [Zenodo](https://zenodo.org/search?page=1&size=20&q=zaagsma&sort=-publication_date).
