@@ -1,0 +1,26 @@
+---
+title: 'Building a Blog With Drupal'
+date: 2012-06-27
+permalink: /posts/2012/06/building-a-blog-with-drupal/
+author_profile: true
+tags:
+  - digital history
+  - digital humanities
+  - Drupal
+---
+
+
+When I decided to create this website the first question that came up was\: which CMS will I use? I built a previous version with [Wordpress](https://web.archive.org/web/20231022071003/http://wordpress.org/) which is pretty much ideal for a blog-oriented website. But as it happens I built several websites with [Drupal](https://web.archive.org/web/20231022071003/http://drupal.org/) already and I currently work as a web developer using [Drupal Commons](https://web.archive.org/web/20231022071003/http://drupal.org/project/commons) to create a [major new website relating to Dutch history](https://web.archive.org/web/20231022071003/http://thesurfaceappearanceofthings.com/blog/17-05-2012/building-online-community-historians-netherlands). _Noblesse oblige_ I felt, and therefore decided to go for Drupal. As it turned out, building a blog in Drupal was a good way to find out more about its strenghts and weaknesses in areas that also matter to the project I mentioned.   
+Now before I continue I should make one thing very clear\: this is not about Wordpress versus Drupal. Plenty of energy has been waisted on comparisons that often miss a basic point\: they are not similar beasts. Wordpress is long past being the blog system it was and has matured into a flexible and user-friendly light weight CMS. But there are clear limits to what you can achieve with it. Drupal, by contrast, was conceived as a CMS with which people can built highly complex websites.  
+Which system you chose depends on what you need and there are plenty of cases where chosing Drupal to create a website makes little sense and would be overkill. Moreover, Wordpress is very popular in the digital humanities world and some useful plugins have been developed for [pedagogical purposes](https://web.archive.org/web/20231022071003/http://chnm.gmu.edu/scholarpress/) or [enhanced publication](https://web.archive.org/web/20231022071003/http://digital-scholarship.ehumanities.nl/epubs/augmenting-wordpress-for-enhanced-publication/).   
+So why would you want to build a blog with Drupal instead of a system like Wordpress which provides all the necessary functionality out of the box? Short answer\: functionality. Slightly longer answer\: when you require functionality that Wordpress cannot \(easily\) deliver. Or when you are not sure if your website might evolve into something more than a blog. Long answer\: read [this very nice piece](https://web.archive.org/web/20231022071003/http://www.onyxbits.de/content/howto-build-single-user-blog-drupal).  
+To give an example\: I wanted users to be able to easily export my publication list to bibliographic software and embed [COinS metadata](https://web.archive.org/web/20231022071003/http://en.wikipedia.org/wiki/COinS) for integration with [Zotero](https://web.archive.org/web/20231022071003/http://en.wikipedia.org/wiki/COinS). This is difficult to accomplish with Wordpress, yet set up in a minute with the [Biblio](https://web.archive.org/web/20231022071003/http://drupal.org/project/biblio) module for Drupal. I also wanted to split up the content on my tag pages in types of content \(publication or blog post\). Again this is easy to set up using the essential [Views](https://web.archive.org/web/20231022071003/http://www.onyxbits.de/content/howto-build-single-user-blog-drupal) module in Drupal. Indeed, displaying content in myriad ways is one area where Drupal shines and its power shows.    
+# What about Drupal's weaknesses as a blogging CMS?  
+•	creating and moderating content\: clearly Wordpress shines in terms of easy content moderation\: I maintain and edit a Wordpress website too at work and the ease with which one can create, edit and modify posts is impressive and, crucially, wrapped in a great interface. Easy content moderation is one area where Drupal needs improvement, with the emphasis on _easy_ because the tools are there.  
+•	out-of-the-box functionality\: all the essential tools to get a blog up and running in no time are there in Wordpress. In Drupal several modules have to be installed to achieve similar functionality.  
+•	themes\: clearly there are many more good blogging themes available for WP then for Drupal, though more and more get ported.  
+Again, your choice depends on your needs. For me building this website in Drupal meant I could add some useful functionality. Besides that, it was also a very helpful experiment that provided useful information for the website that I am building at [my institute](https://web.archive.org/web/20231022071003/http://www.huygens.knaw.nl/).    
+# Some useful resources\:   
+•	[Building Your Blog With Drupal 7 E-book](https://web.archive.org/web/20231022071003/http://learnbythedrop.com/drop/182)  
+•	[Howto\: Drupal for bloggers](https://web.archive.org/web/20231022071003/http://www.onyxbits.de/content/howto-build-single-user-blog-drupal)  
+•	[20 Must have Drupal Modules when creating a Blog](https://web.archive.org/web/20231022071003/http://mydrupal.com/20_must_have_drupal_modules_when_creating_a_blog) \(for Drupal 6 but to a large extent still valid\)  
