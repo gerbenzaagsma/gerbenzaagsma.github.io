@@ -29,7 +29,7 @@ author_profile: true
 
 ## Peer-reviewed articles
 ---
-- [Digital History and the Politics of Digitisation](https:/doi.org/10.1093/llc/fqac050), _Digital Scholarship in the Humanities_ (2022).
+- [Digital History and the Politics of Digitisation](https:/doi.org/10.1093/llc/fqac050), _Digital Scholarship in the Humanities_ 38/2 (2023).
 - [The 'Jewish Freedom Fighter'. The legacy of Naftali Botwin and the construction of a transnational cult of Jewish heroes](http:/hdl.handle.net/10993/37715), Clara Royer and Eszter Balasz eds., _The Cult of Heroes in Central Europe (1880-1945) – Transnational and Interdisciplinary Aspects_ (Paris: Eur'Orbem Éditions, 2019).
 - [#DHJewish – Jewish Studies in the digital age](https:/www.medaon.de/de/artikel/dhjewish-jewish-studies-in-the-digital-age/), _Medaon_ 23 (2018).
 - 'Jewish responses to anti-Semitism in Paris and London in the late 1930s as European Jewish political history' in: Frank Bajohr and Dieter Pohl eds., [Right-Wing Politics and the Rise of Antisemitism in Europe 1935-1941](https:/www.wallstein-verlag.de/9783835333475-frank-bajohr-und-dieter-pohl-right-wing-politics-and-the-rise-of-antisemitism-in-europe-1935-1941.html) (Göttingen; Wallstein-Verlag, 2018) 95-113.
