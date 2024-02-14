@@ -25,8 +25,6 @@ My current [research](/research/) focuses on the **history of digital history**.
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 --- 
 
