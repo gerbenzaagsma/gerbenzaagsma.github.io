@@ -11,7 +11,7 @@ Over the years I have taught courses and workshops in several fields.
 
 2017-present. University of Luxembourg:
 * MA seminar Debating Genocide and Mass Violence in the 21st Century: Europe and Beyond.
-8 MA seminar Beyond the Diary of Anne Frank: Egodocuments and the Construction of Holocaust
+* MA seminar Beyond the Diary of Anne Frank: Egodocuments and the Construction of Holocaust
 Memory.
 * BA seminar Music and Contemporary History.
 * MA seminar Introduction to Digital History/ Winter School in Digital History (as co-convener,
