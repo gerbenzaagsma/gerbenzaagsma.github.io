@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Gerben Zaagsma"
 title_separator          : "-"
-name                     : &name ""
+name                     : &name "Gerben Zaagsma"
 description              : &description "Historian working on the history of digital history"
 url                      : https://gerbenzaagsma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gerben Zaagsma"
+  name             : ""
   avatar           : "profile.png"
-  bio              : "Historian"
+  bio              : "Historian working on the history of digital history"
   googlescholar    : "https://scholar.google.com/citations?user=rFhzgnoAAAAJ&hl"
   email            : "gerben.zaagsma@uni.lu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
