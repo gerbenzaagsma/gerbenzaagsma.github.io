@@ -1,11 +1,30 @@
 ---
-permalink: /blog/
-title: "Blog posts"
+permalink: /teaching/
+title: "Teaching"
 author_profile: true
 redirect_from: 
 
 ---
 
 
-I have never been much of a blogger. For some old blogposts see [this page](https://web.archive.org/web/20231022070935/https://gerbenzaagsma.org/blog-main) on the Wayback Machine:
+Over the years I have taught courses and workshops in several fields.
 
+2017-present. University of Luxembourg:
+o MA seminar Debating Genocide and Mass Violence in the 21st Century: Europe and Beyond.
+o MA seminar Beyond the Diary of Anne Frank: Egodocuments and the Construction of Holocaust
+Memory.
+o BA seminar Music and Contemporary History.
+o MA seminar Introduction to Digital History/ Winter School in Digital History (as co-convener,
+coordinator, co-lecturer).
+o MA seminar Doing Digital History - The International Brigades and the Spanish Civil War.
+o MA seminar Digital Approaches to Modern Jewish History.
+o MA seminar Jewish responses to Persecution and Anti-Semitism in the 20th Century.
+• 2015-2016. BA seminar Jewish Responses to Persecution and Anti-Semitism in the 20th century, Seminar
+für Neuere und Neueste Geschichte, Georg-August Universität Göttingen.
+• 2013. Seminar Digital Historical Research at the Huygens Institute for the History of the Netherlands and
+the NIOD Institute for War, Holocaust and Genocide Studies.
+• 2008-present. Various (invited) lectures & skills seminars taught on modern Jewish history and digital
+humanities in the UK, France, Luxembourg, Netherlands, for undergraduate/graduate/postgraduate
+students.
+• 1997. Seminar Jewish History in the Netherlands and the City of Groningen, Adult Education Academy,
+University of Groningen.
