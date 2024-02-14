@@ -7,5 +7,5 @@ redirect_from:
 ---
 
 
-I have never been much of a blogger. For some old blogposts see [this page](https://web.archive.org/web/20231022070935/https://gerbenzaagsma.org/blog-main) on the Wayback Machine:
+I have never been the world's greatest or most prolific blogger. For a few old blogposts see [this page](https://web.archive.org/web/20231022070935/https://gerbenzaagsma.org/blog-main) on the Wayback Machine:
 
