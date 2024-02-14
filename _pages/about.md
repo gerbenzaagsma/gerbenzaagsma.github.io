@@ -14,3 +14,8 @@ Before joining C²DH in 2017, I worked in a number of different places and setti
 I joined the C²DH in August 2017 and was Head of the Research Area Digital History & Historiography until December 2020, when it merged with the center’s DHARPA team. On behalf of C²DH I also serve on the Ethics Review Panel (ERP) of the University of Luxembourg.
 
 My current [research](/research/) focuses on the **history of digital history**. You can also check my full [CV](/cv/), [talks](/talks) and list of [publications](/publications). Several recent papers and lectures can also be found on [Zenodo](https://zenodo.org/search?page=1&size=20&q=zaagsma&sort=-publication_date).
+
+
+## Latest updates:
+* I will give a keynote lecture at [Digital History Switzerland 2024](https://conferences.unibas.ch/frontend/index.php?folder_id=234) in September 2024.
+* A major new article, _Facing the History Machine: Towards Histories of Digital History_ is currently under review at _History of Humanities_.
