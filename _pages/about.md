@@ -19,3 +19,9 @@ My current [research](/research/) focuses on the **history of digital history**.
 ## Latest updates:
 * I will give a keynote lecture at [Digital History Switzerland 2024](https://conferences.unibas.ch/frontend/index.php?folder_id=234) in September 2024.
 * A major new article, _Facing the History Machine: Towards Histories of Digital History_ is currently under review at _History of Humanities_.
+
+
+
+--- 
+
+_Image: [Le Chat](https://lechat.com/en/homepage/) by Philippe Geluck_
