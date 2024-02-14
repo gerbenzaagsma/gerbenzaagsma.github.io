@@ -26,7 +26,7 @@ the NIOD Institute for War, Holocaust and Genocide Studies.
 * 2008-present. Various (invited) lectures & skills seminars taught on modern Jewish history and digital
 humanities in the UK, France, Luxembourg, Netherlands, for undergraduate/graduate/postgraduate
 students.
-* 1997 . Seminar Jewish History in the Netherlands and the City of Groningen, Adult Education Academy,
+* 1997\. Seminar Jewish History in the Netherlands and the City of Groningen, Adult Education Academy,
 University of Groningen.
 
 
