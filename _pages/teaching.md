@@ -21,10 +21,12 @@ coordinator, co-lecturer).
 * MA seminar Jewish responses to Persecution and Anti-Semitism in the 20th Century.
 * 2015-2016. BA seminar Jewish Responses to Persecution and Anti-Semitism in the 20th century, Seminar
 für Neuere und Neueste Geschichte, Georg-August Universität Göttingen.
-* 2013. Seminar Digital Historical Research at the Huygens Institute for the History of the Netherlands and
+* 2013"." Seminar Digital Historical Research at the Huygens Institute for the History of the Netherlands and
 the NIOD Institute for War, Holocaust and Genocide Studies.
 * 2008-present. Various (invited) lectures & skills seminars taught on modern Jewish history and digital
 humanities in the UK, France, Luxembourg, Netherlands, for undergraduate/graduate/postgraduate
 students.
-* 1997. Seminar Jewish History in the Netherlands and the City of Groningen, Adult Education Academy,
+* 1997 . Seminar Jewish History in the Netherlands and the City of Groningen, Adult Education Academy,
 University of Groningen.
+
+
