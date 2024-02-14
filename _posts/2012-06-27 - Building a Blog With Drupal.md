@@ -1,7 +1,7 @@
 ---
 title: 'Building a Blog With Drupal'
 date: 2012-06-27
-permalink: /posts/2012/06/blog-post-1/
+permalink: /posts/2012/06/building-a-blog-with-drupal/
 tags:
   - digital history
   - digital humanities
