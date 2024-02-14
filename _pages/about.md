@@ -21,6 +21,12 @@ My current [research](/research/) focuses on the **history of digital history**.
 * A major new article, _Facing the History Machine: Towards Histories of Digital History_ is currently under review at _History of Humanities_.
 
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 --- 
 
