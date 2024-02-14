@@ -24,4 +24,4 @@ My current [research](/research/) focuses on the **history of digital history**.
 
 --- 
 
-_Image: [Le Chat](https://lechat.com/en/homepage/) by Philippe Geluck_
+_Image: [Le Chat](https://lechat.com/en/homepage/) by Philippe Geluck._
