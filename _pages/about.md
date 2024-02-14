@@ -15,6 +15,8 @@ I joined the C²DH in August 2017 and was Head of the Research Area Digital Hist
 
 My current [research](/research/) focuses on the **history of digital history**. You can also check my full [CV](/cv/), [talks](/talks) and list of [publications](/publications). Several recent papers and lectures can also be found on [Zenodo](https://zenodo.org/search?page=1&size=20&q=zaagsma&sort=-publication_date).
 
+<br/>
+<br/>
 
 ## Latest updates:
 * I will give a keynote lecture at [Digital History Switzerland 2024](https://conferences.unibas.ch/frontend/index.php?folder_id=234) in September 2024.
