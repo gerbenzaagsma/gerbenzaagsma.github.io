@@ -6,9 +6,7 @@ redirect_from:
 
 ---
 
-
-Over the years I have taught courses and workshops in several fields.
-
+<br/>
 
 **Recent workshop:**
 * 18 October 2023, ‘An Introduction to the Theory and Methods of Data Driven Research’, EUROPAST workshop (Lund University).
