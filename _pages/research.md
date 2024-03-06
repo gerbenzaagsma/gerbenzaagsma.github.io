@@ -15,7 +15,7 @@ While in Göttingen between 2013-2017, I turned my attention to **Holocaust hist
 
 Since joining C²DH in 2017, most of my research has focused on various aspects of **digital history**. I have a longstanding interest in the epistemological implications of using new technologies in historical research, in the present as well as the past. As for the present, I am especially interested in the [politics of digitisation](https://doi.org/10.1093/llc/fqac050) and digitised cultural heritage, seen from a global perspective. At the same time, I see this as but one aspect (a key one to be sure) of the much broader question of how technology has always shaped, framed and constrained historical research and thereby affected historical knowledge production.
 
-My current research, envisaged as a new book project, thus explores the **history and genealogies of digital history**, set within the broader context of the ways in which technology has shaped historical research practices and knowledge production since the late 19th century. 
+My current research, envisaged as a new book project, thus explores the **history and genealogies of digital history**, set within the broader context of the ways in which technology has shaped historical research practices and knowledge production since the 19th century. 
 
 
 
