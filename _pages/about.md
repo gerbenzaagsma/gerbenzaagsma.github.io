@@ -23,7 +23,7 @@ My current [research](/research/) focuses on the **history of digital history**.
 * A lenghty new article, _Facing the History Machine: Towards Histories of Digital History_ is currently under review at _History of Humanities_.
 
 
-test text [img src="/images/pdf-icon.png](https://orbilu.uni.lu/handle/10993/60512)
+test text [<style=margin-bottom: 5px><img src="/images/pdf-icon.png>](https://orbilu.uni.lu/handle/10993/60512)
 
 <br/>
 <br/>
