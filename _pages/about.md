@@ -18,12 +18,12 @@ My current [research](/research/) focuses on the **history of digital history**.
 <br/>
 
 ## Latest updates:
-* A new short article 'Between Online and Offline: Doing Archival Research in the Digital Age' has been published in a special issue of the German archival journal [ARCHIV. theorie & praxis](https://www.archive.nrw.de/landesarchiv-nrw/ueber-uns/archiv-theorie-praxis) on _Originalerhalt und Digitalisierung_. [<img align=top src="/images/pdf-icon.png">](https://orbilu.uni.lu/handle/10993/60512). 
+* A new short article 'Between Online and Offline: Doing Archival Research in the Digital Age' has been published in a special issue of the German archival journal [ARCHIV. theorie & praxis](https://www.archive.nrw.de/landesarchiv-nrw/ueber-uns/archiv-theorie-praxis) on _Originalerhalt und Digitalisierung_. [<img src="/images/pdf-icon.png">](https://orbilu.uni.lu/handle/10993/60512). 
 * I will give a keynote lecture at [Digital History Switzerland 2024](https://conferences.unibas.ch/frontend/index.php?folder_id=234) in September 2024.
 * A lenghty new article, _Facing the History Machine: Towards Histories of Digital History_ is currently under review at _History of Humanities_.
 
 
-
+test text [img src="/images/pdf-icon.png](https://orbilu.uni.lu/handle/10993/60512)
 
 <br/>
 <br/>
