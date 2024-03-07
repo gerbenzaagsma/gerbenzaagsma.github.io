@@ -41,7 +41,7 @@ author_profile: true
 
 ## Book chapters & other articles
 ---
-- 'Between Online and Offline: Doing Archival Research in the Digital Age', [ARCHIV. theorie & praxis](https://www.archive.nrw.de/landesarchiv-nrw/ueber-uns/archiv-theorie-praxis) 77/1 (2024) 16-19.
+- 'Between Online and Offline: Doing Archival Research in the Digital Age', [ARCHIV. theorie & praxis](https://www.archive.nrw.de/landesarchiv-nrw/ueber-uns/archiv-theorie-praxis) 77/1 (2024) 16-19. [PDF](https://orbilu.uni.lu/handle/10993/60512).
 - 'Introduction' in: [Jewish Studies in the Digital Age](https://www.degruyter.com/document/doi/10.1515/9783110744828/html) (Berlin: De Gruyter, 2022). Co-authored with Michelle Margolis, Amalia Levi, Daniel Stökl Ben Ezra and Miriam Rürup.
 - 'Introduction' in: [Handbook of Digital Public History](https://www.degruyter.com/document/doi/10.1515/9783110430295/html) (Berlin: De Gruyter Oldenbourg, 2022) 1-15. Co-authored with Serge Noiret and Mark Tebeau.
 - 'Content Management' in: [Handbook of Digital Public History](http://www.degruyter.com/document/doi/10.1515/9783110430295/html) (Berlin: De Gruyter Oldenbourg, 2022) 433-439.
