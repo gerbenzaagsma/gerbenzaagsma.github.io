@@ -14,9 +14,9 @@ redirect_from:
 
 **2017-present. University of Luxembourg:**
 * MA seminar Debating Genocide and Mass Violence in the 21st Century: Europe and Beyond.
+* BA seminar Music and Contemporary History.
 * MA seminar Beyond the Diary of Anne Frank: Egodocuments and the Construction of Holocaust
 Memory.
-* BA seminar Music and Contemporary History.
 * MA seminar Introduction to Digital History/ Winter School in Digital History (as convener,
 coordinator, co-lecturer).
 * MA seminar Doing Digital History - The International Brigades and the Spanish Civil War.
