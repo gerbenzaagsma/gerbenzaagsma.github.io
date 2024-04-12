@@ -11,6 +11,7 @@ author_profile: true
 
 - 01-04 July 2024, Politics of Digitisation session at the [EUROPAST Summer School 'The Use of Digital Tools and Methods in the Creation, Production, and Analysis of Public History Narratives'](https://www.europast.vu.lt/events/call-for-participation/europast-summer-school-call-for-participants) (University of Luxembourg).
 - 12 September 2024, Keynote lecture (title tbc) at [Digital History Switzerland 2024](https://conferences.unibas.ch/frontend/index.php?folder_id=234).
+- 23-25 October 2024, 'Facing the History Machine: Towards Histories of Digital History', [Revolutionary, disruptive, or just repeating itself? Tracing the History of Digital History[(https://dhdhi.hypotheses.org/8726)] (German Historical Institute, Paris).
 
 
 
