@@ -9,5 +9,5 @@ author_profile: true
 
 
 
-<embed src="https://gerbenzaagsma.github.io/files/Zaagsma-CV-20230927.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://gerbenzaagsma.github.io/files/Zaagsma-CV-20240419.pdf" type="application/pdf" width="600px" height="500px" />
 
