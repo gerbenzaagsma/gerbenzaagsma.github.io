@@ -32,4 +32,4 @@ My current [research](/research/) focuses on the **history of digital history**.
 
 --- 
 
-_Image: [Le Chat](https://lechat.com/en/homepage/) by Philippe Geluck._
+_Image: [Vicki Bennett](https://peoplelikeus.org/) - Those Who Do Not._
