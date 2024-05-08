@@ -11,7 +11,7 @@ Welcome to the website of Gerben Zaagsma. I am an Assistant Professor in Contemp
 
 Before joining C²DH in August 2017, I worked in a number of different places and settings, see my [CV](/cv/). At C²DH, I was Head of the Research Area Digital History & Historiography until December 2020, when it merged with the center’s DHARPA team. 
 
-My current [research](/research/) focuses on the **history of digital history**. You can also check my full [CV](/cv/), [talks](/talks) and list of [publications](/publications). Several recent papers and lectures can also be found on [Zenodo](https://zenodo.org/search?page=1&size=20&q=zaagsma&sort=-publication_date).
+My current [research](/research/) focuses on the **history of digital history**, and the **politics of digitisation** and digitised cultural heritage, seen from a global perspective. You can also check my [talks](/talks) and list of [publications](/publications). Several recent papers and lectures can be found on [Zenodo](https://zenodo.org/search?page=1&size=20&q=zaagsma&sort=-publication_date).
 
 <br/>
 
