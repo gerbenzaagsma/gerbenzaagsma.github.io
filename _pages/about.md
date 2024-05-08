@@ -9,11 +9,7 @@ redirect_from:
 
 Welcome to the website of Gerben Zaagsma. I am an Assistant Professor in Contemporary and Digital History at the [Centre for Contemporary and Digital History (C²DH)](https://www.c2dh.uni.lu/) of the University of Luxemburg, with main research and teaching interests in modern Jewish, digital, public, and music history.
 
-Before joining C²DH in 2017, I worked in a number of different places and settings. Following my study of history at the University of Groningen, I was a researcher at the Public History Research and Consultancy Center of the same university and manager at a local synagogue foundation. I then studied Yiddish at the School of Oriental and African Studies, University of London, before embarking upon my PhD research project at the European University Institute (EUI) in Florence. 
-
-From Tuscany, I left for the UK and was a postdoctoral fellow at the Department of Hebrew and Jewish Studies, University College London and subsequently worked as an editor, web developer & researcher at the Huygens Institute for the History of the Netherlands at the Duch Academy of Arts and Sciences. Between 2013-2017, I was a research fellow in the project _The diaries of Anne Frank. Research—Translations— Critical Edition_ at the Lichtenberg Kolleg, the Institute of Advanced Study at the University of Göttingen. 
-
-I joined the C²DH in August 2017 and was Head of the Research Area Digital History & Historiography until December 2020, when it merged with the center’s DHARPA team. On behalf of C²DH I also serve on the University of Luxembourg's Ethics Review Panel (ERP), which I chaired between 2020-2022.
+Before joining C²DH, I worked in a number of different places and settings, see also my [CV](/cv/). I joined the C²DH in August 2017 and was Head of the Research Area Digital History & Historiography until December 2020, when it merged with the center’s DHARPA team. On behalf of C²DH I also serve on the University of Luxembourg's Ethics Review Panel (ERP), which I chaired between 2020-2022.
 
 My current [research](/research/) focuses on the **history of digital history**. You can also check my full [CV](/cv/), [talks](/talks) and list of [publications](/publications). Several recent papers and lectures can also be found on [Zenodo](https://zenodo.org/search?page=1&size=20&q=zaagsma&sort=-publication_date).
 
