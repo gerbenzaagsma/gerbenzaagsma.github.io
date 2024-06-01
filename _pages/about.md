@@ -14,10 +14,9 @@ Before joining C²DH in August 2017, I worked in a number of different places an
 <br/>
 
 ## Latest updates:
-* A new short article 'Between Online and Offline: Doing Archival Research in the Digital Age' has been published in a special issue of the German archival journal [ARCHIV. theorie & praxis](https://www.archive.nrw.de/landesarchiv-nrw/ueber-uns/archiv-theorie-praxis) on _Originalerhalt und Digitalisierung_. **[<sup>PDF</sup>](https://orbilu.uni.lu/handle/10993/60512)**.
+* A lengthy new article, _Facing the History Machine: Towards Histories of Digital History_ has been accepted for publication in _History of Humanities.
 * I am delighted to give a keynote lecture at [Digital History Switzerland 2024](https://conferences.unibas.ch/frontend/index.php?folder_id=234) in September 2024.
-* A lengthy new article, _Facing the History Machine: Towards Histories of Digital History_ has been conditionally accepted for publication in _History of Humanities_, pending revisions.
-
+* A new short article 'Between Online and Offline: Doing Archival Research in the Digital Age' has been published in a special issue of the German archival journal [ARCHIV. theorie & praxis](https://www.archive.nrw.de/landesarchiv-nrw/ueber-uns/archiv-theorie-praxis) on _Originalerhalt und Digitalisierung_. **[<sup>PDF</sup>](https://orbilu.uni.lu/handle/10993/60512)**.
 
 
 
