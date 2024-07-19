@@ -96,7 +96,7 @@ author_profile: true
 - 'Hybrid approaches to historical research: analysing the Anne Frank diaries with digital tools', [dhnord2017 - (De)constructing Digital History](https://dhnord2017.sciencesconf.org/) (Lille, 27-29 November 2017).
 - closing remarks 'Engaging New Generations. The Holocaust and Knowledge Dissemination in the Digital Age', [European Holocaust Research Infrastructure (EHRI)](https://ehri-project.eu/) workshop (NIOD, 9 November 2017).
 - 'Hybrid approaches to historical research', [The Ends of the Humanities](http://endsofthehumanities.com/wp/), University of Luxembourg, 10-13 September 2017.
-- [invited] opening remarks 'Jewish Studies and Digital Humanities, workshop [From Tablet to Tablet on Jewish Studies and Digital Humanities](http://www.igdj-hh.de/news-leser-152/tagung-from-tablet-to-tablet.html), Institute for the History of the German Jews, Hamburg, 4-6 September.
+- Opening remarks 'Jewish Studies and Digital Humanities, workshop [From Tablet to Tablet on Jewish Studies and Digital Humanities](http://www.igdj-hh.de/news-leser-152/tagung-from-tablet-to-tablet.html), Institute for the History of the German Jews, Hamburg, 4-6 September.
 - 'Hybrid approaches to historical research: analysing the Anne Frank diaries with digital tools', Digital Humanities Benelux Conference, University of Utrecht, 3-5 July 2017
 - 'East-Central European Jewish heritage online', session Presenting "difficult" history - Jewish heritage in East-Central Europe, 4th Annual Conference of the International Federation for Public History, Ravenna, Italy., 5-9 June 2017.
 - 'Help, betrayal and the importance of networks – Jews in hiding in the Netherlands and the case of Anne Frank', 10th Contact Day Jewish Studies on the Low Countries, University of Antwerp, 16 May 2017.
@@ -107,7 +107,7 @@ author_profile: true
 ## 2016
 ---
 
-- [invited] Keynote lecture 'From "Chosen Fighters of the Jewish People" to Jewish Resistance Fighters: Jewish Volunteers, the International Brigades and the Spanish Civil War', conference [Jews and the Spanish Civil War (1936-1939)](http://www.polin.pl/pl/aktualnosci/2016/11/03/konferencja-zydzi-a-wojna-domowa-w-hiszpanii-1936-1939), Institute of History, Warsaw University, 17 November 2016.
+- Keynote lecture 'From "Chosen Fighters of the Jewish People" to Jewish Resistance Fighters: Jewish Volunteers, the International Brigades and the Spanish Civil War', conference [Jews and the Spanish Civil War (1936-1939)](http://www.polin.pl/pl/aktualnosci/2016/11/03/konferencja-zydzi-a-wojna-domowa-w-hiszpanii-1936-1939), Institute of History, Warsaw University, 17 November 2016.
 - 'Help, betrayal and the importance of networks – Jews in hiding in the Netherlands and the case of Anne Frank', Final Workshop _Reappraising the Anne Frank Diaries: Contexts and Receptions_, Basel, 8-10 September 2016.
 - 'Jewish responses to anti-Semitism in Paris and London in the late 1930s as European Jewish political history', Conference [Right-Wing Politics and the Rise of Antisemitism in Europe 1935-1941](http://www.hsozkult.de/event/id/termine-29842), Center for Holocaust Studies, Institut für Zeitgeschichte Munich, 18-20 February 2016.
 - Winter semester 2015-2016, BA seminar _Jewish responses to persecution and anti-Semitism in the 20th century_, Seminar für Neuere und Neueste Geschichte, Georg-August Universität Göttingen.
@@ -123,19 +123,19 @@ author_profile: true
 ## 2014
 ---
 
-- [invited] '[Search and Data Mining](http://www.slideshare.net/gerbenzaagsma/20141211-seminar-luxembourg-zaagsma)', day long skills seminar Master of European History, University of Luxembourg (11 December 2014).
+- '[Search and Data Mining](http://www.slideshare.net/gerbenzaagsma/20141211-seminar-luxembourg-zaagsma)', day long skills seminar Master of European History, University of Luxembourg (11 December 2014).
 - Presentation of the projects [_The diaries of Anne Frank. Research—Translations—Critical Edition_](http://www.uni-goettingen.de/de/418200.html)_/ Wartime Yiddish Diaries_, [7th Contact Day Jewish Studies on the Low Countries](https://www.uantwerpen.be/nl/onderzoeksgroep/ijs/lezingen-en-conferen/conferenties-2013-14/7th-contact-day-jewi/) (Institute of Jewish Studies, University of Antwerp, 26 May 2014).
 - Introductory workshop 'Digital Tools for Historical Research' (with Ilja Nieuwland), [THATCamp The Hague 2014](http://thehague2014.thatcamp.org/) (The Hague, 14-15 January 2014).
 
 ## 2013
 ---
 
-- [invited] 'In search of the Jewish freedom fighter: Polish-Jewish volunteers in the International Brigades during the Spanish Civil War and its aftermath', [Colloquium of East (-Central) European History](http://www.forschungsstelle.uni-bremen.de/de/5/20110606112746/20131007094256/WiSe_201314.html), [Forschungsstelle Osteuropa](http://www.forschungsstelle.uni-bremen.de/) an der Universität Bremen (3 December 2013).
-- [invited] Introductory lecture on the history of digital humanities/ history, workshop [Digitale Geschiedenis, toekomst voor de Bedrijfsgeschiedenis?](http://www.neha.nl/stichtingbg/programma-2013-2.php), Stichting Bedrijfsgeschiedenis (Universiteitsmuseum Utrecht, 21 November 2013).
+- 'In search of the Jewish freedom fighter: Polish-Jewish volunteers in the International Brigades during the Spanish Civil War and its aftermath', [Colloquium of East (-Central) European History](http://www.forschungsstelle.uni-bremen.de/de/5/20110606112746/20131007094256/WiSe_201314.html), [Forschungsstelle Osteuropa](http://www.forschungsstelle.uni-bremen.de/) an der Universität Bremen (3 December 2013).
+- Introductory lecture on the history of digital humanities/ history, workshop [Digitale Geschiedenis, toekomst voor de Bedrijfsgeschiedenis?](http://www.neha.nl/stichtingbg/programma-2013-2.php), Stichting Bedrijfsgeschiedenis (Universiteitsmuseum Utrecht, 21 November 2013).
 - 'Jewish volunteers in the International Brigades during the Spanish Civil War', Symposium in honor of Rena Fuks-Mansfeld (Amsterdam, 7 June 2013).
 - 'Digital tools to complex archival sources: Introduction', Researchmaster Posthumus Institute Leiden: _Keys to the Treasure Trove: Sources and Methods for Social and Economic Historians_, 17 May 2013.
-- [invited] Presentation of the [Yiddish Sources portal](https:///web.archive.org/web/20231022070646/http://yiddish-sources.com/) for the [15th conference of the International Association of Yiddish Clubs](http://yiddishconference.com/) (Pittsburgh), 26 April 2013.
-- [invited] ['Historical sources and data in the digital age'](http://www.slideshare.net/gerbenzaagsma/20130314-historical-sources-and-data-in-the-digital-age), _University of Utrecht Digital Humanities Bootcamp_, 14 March 2013.
+- Presentation of the [Yiddish Sources portal](https:///web.archive.org/web/20231022070646/http://yiddish-sources.com/) for the [15th conference of the International Association of Yiddish Clubs](http://yiddishconference.com/) (Pittsburgh), 26 April 2013.
+- ['Historical sources and data in the digital age'](http://www.slideshare.net/gerbenzaagsma/20130314-historical-sources-and-data-in-the-digital-age), _University of Utrecht Digital Humanities Bootcamp_, 14 March 2013.
 - several lectures on digital history/humanities as part of a [course on digital historical research](http://dho2013.wordpress.com/) (Huygens ING and NIOD Institute for War, Holocaust and Genocide Studies, February-June 2013).
 - Introductory lecture 'Digital History', [Digital History Workshop](http://www.digitale-geschiedenis.nl/) (Huygens ING, 7 January 2013).
 
@@ -144,7 +144,7 @@ author_profile: true
 ---
 
 - 'Building an online community for historians in The Netherlands', [Working group Public History Online: Using the Web to Collaborate and Share](http://www.pastvoices.net/historyonline/),_ National Council on Public History Annual Meeting_ (Milwaukee, 18-22 April 2012).
-- [invited] 'Digital sources and historical research: European Jewish history as an example', _Utrechts Cultuurhistorisch Seminar_ (Utrecht University, 12 December 2012).
+- 'Digital sources and historical research: European Jewish history as an example', _Utrechts Cultuurhistorisch Seminar_ (Utrecht University, 12 December 2012).
 
 
 ## 2011
@@ -172,16 +172,16 @@ author_profile: true
 --- 
 
 - 'The Yiddish press as a source in historical research', _Association for Jewish Studies 41st Annual Conference_ (Los Angeles, December 20-22, 2009).
-- [invited] Introduction to a screening of Eran Torbiner's 'Madrid Before Hanita, Palestinian-Jewish volunteers in the International Brigades in Spain',  _Seminar Film Series on Jewish Resistance _(Sussex University, 23 November 2009).
+- Introduction to a screening of Eran Torbiner's 'Madrid Before Hanita, Palestinian-Jewish volunteers in the International Brigades in Spain',  _Seminar Film Series on Jewish Resistance _(Sussex University, 23 November 2009).
 - 'The place of Berlin in the transnational networks of Jewish migrant radicals', _Transforming Berlin's Urban Space. East European Jewish Migrants in Charlottengrad and the Scheunenviertel, 1918-1939 _(Berlin, Jüdisches Museum, October 17th-19th 2009).
 - 'Contemporary European Jewish history on the internet', _Contemporary history in the digital age_ (Luxemburg - 15/16 October 2009).
 - 'Migration and the transformation of Jewish political behaviour - East European Jewish communists in Western Europe in the interbellum', _GRACEH 2009: "Migration and Movement in European History"_ (European University Institute, Florence, 28-30 April 2009).
-- [invited] 'Heroes for whose cause? Jewish volunteers and the Spanish Civil War in the Parisian Yiddish Press 1936-1939', _Research Seminar L'Histoire Comparée et les Migrations Contemporaines_ (École des Hautes Études en Sciences Sociales, 28 April 2009).
-- [invited] 'Jews in the communist movement: Understanding a controversial encounter', _Modern History Seminar_ (University of Edinburgh, 11 March 2009)
+- 'Heroes for whose cause? Jewish volunteers and the Spanish Civil War in the Parisian Yiddish Press 1936-1939', _Research Seminar L'Histoire Comparée et les Migrations Contemporaines_ (École des Hautes Études en Sciences Sociales, 28 April 2009).
+- 'Jews in the communist movement: Understanding a controversial encounter', _Modern History Seminar_ (University of Edinburgh, 11 March 2009)
 - 'Jewish Participation in the Spanish Civil War', _Yiddish Graduate Seminar_ (University College London, 11 February 2009).
 
 
 ## 2008
 ---
 
-- [invited] 'Between propaganda and emancipation: Jewish volunteers in the International Brigades during the Spanish Civil War', _UCLA-Utrecht Symposium on Jewish Politics and Political Behavior_ (Utrecht University, 1 December 2008).
+- 'Between propaganda and emancipation: Jewish volunteers in the International Brigades during the Spanish Civil War', _UCLA-Utrecht Symposium on Jewish Politics and Political Behavior_ (Utrecht University, 1 December 2008).
