@@ -10,7 +10,7 @@ author_profile: true
 ## Under review:
 ---
 * Article _Facing the History Machine: Towards Histories of Digital History_ (History of Humanities). _Accepted for publication_.
-* Chapter _Help, Betrayal and the Importance of Networks – Jews in Hiding in the Netherlands and the Case of Anne Frank_ (Cambridge University Press, 2024).
+* Chapter _Help, Betrayal and the Importance of Networks – Jews in Hiding in the Netherlands and the Case of Anne Frank_ (in edited volume to be published with new critical edition of the Anne Frank diaries, Cambridge University Press, 2024).
 
 
 
@@ -29,6 +29,8 @@ author_profile: true
 
 ## Peer-reviewed articles
 ---
+
+- 'Facing the History Machine: Towards Histories of Digital History', forthcoming [History of Humanities](https://www.journals.uchicago.edu/toc/hoh/current).
 - [Digital History and the Politics of Digitisation](https://doi.org/10.1093/llc/fqac050), _Digital Scholarship in the Humanities_ 38/2 (2023) 830–851.
 - [The 'Jewish Freedom Fighter'. The legacy of Naftali Botwin and the construction of a transnational cult of Jewish heroes](http://hdl.handle.net/10993/37715), Clara Royer and Eszter Balasz eds., _The Cult of Heroes in Central Europe (1880-1945) – Transnational and Interdisciplinary Aspects_ (Paris: Eur'Orbem Éditions, 2019).
 - [#DHJewish – Jewish Studies in the digital age](https://www.medaon.de/de/artikel/dhjewish-jewish-studies-in-the-digital-age/), _Medaon_ 23 (2018).
