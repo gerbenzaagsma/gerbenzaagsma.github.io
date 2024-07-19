@@ -21,7 +21,7 @@ author_profile: true
 ## 2024
 ---
 
-- 01-04 July 2024, Politics of Digitisation session at the [EUROPAST Summer School 'The Use of Digital Tools and Methods in the Creation, Production, and Analysis of Public History Narratives'](https://www.europast.vu.lt/events/call-for-participation/europast-summer-school-call-for-participants) (University of Luxembourg).
+- 1-4 July 2024, Politics of Digitisation session at the [EUROPAST Summer School 'The Use of Digital Tools and Methods in the Creation, Production, and Analysis of Public History Narratives'](https://www.europast.vu.lt/events/call-for-participation/europast-summer-school-call-for-participants) (University of Luxembourg).
 - 10-12 April 2024, Roundtable: DHJewish Quo Vadis?, [The Value of the Digital. #DHJewish Conference and Hackathon](https://www.mmz-potsdam.de/aktuelles/veranstaltungen/2024/the-value-of-the-digital-dhjewish-conference-and-hackathon) (Potsdam).
 
 
@@ -94,7 +94,7 @@ author_profile: true
 ---
 
 - 'Hybrid approaches to historical research: analysing the Anne Frank diaries with digital tools', [dhnord2017 - (De)constructing Digital History](https://dhnord2017.sciencesconf.org/) (Lille, 27-29 November 2017).
-- closing remarks 'Engaging New Generations. The Holocaust and Knowledge Dissemination in the Digital Age', [European Holocaust Research Infrastructure (EHRI)](https://ehri-project.eu/) workshop (NIOD, 9 November 2017).
+- Closing remarks 'Engaging New Generations. The Holocaust and Knowledge Dissemination in the Digital Age', [European Holocaust Research Infrastructure (EHRI)](https://ehri-project.eu/) workshop (NIOD, 9 November 2017).
 - 'Hybrid approaches to historical research', [The Ends of the Humanities](http://endsofthehumanities.com/wp/), University of Luxembourg, 10-13 September 2017.
 - Opening remarks 'Jewish Studies and Digital Humanities, workshop [From Tablet to Tablet on Jewish Studies and Digital Humanities](http://www.igdj-hh.de/news-leser-152/tagung-from-tablet-to-tablet.html), Institute for the History of the German Jews, Hamburg, 4-6 September.
 - 'Hybrid approaches to historical research: analysing the Anne Frank diaries with digital tools', Digital Humanities Benelux Conference, University of Utrecht, 3-5 July 2017
@@ -123,7 +123,7 @@ author_profile: true
 ## 2014
 ---
 
-- '[Search and Data Mining](http://www.slideshare.net/gerbenzaagsma/20141211-seminar-luxembourg-zaagsma)', day long skills seminar Master of European History, University of Luxembourg (11 December 2014).
+- [Search and Data Mining](http://www.slideshare.net/gerbenzaagsma/20141211-seminar-luxembourg-zaagsma), day long skills seminar Master of European History, University of Luxembourg (11 December 2014).
 - Presentation of the projects [_The diaries of Anne Frank. Research—Translations—Critical Edition_](http://www.uni-goettingen.de/de/418200.html)_/ Wartime Yiddish Diaries_, [7th Contact Day Jewish Studies on the Low Countries](https://www.uantwerpen.be/nl/onderzoeksgroep/ijs/lezingen-en-conferen/conferenties-2013-14/7th-contact-day-jewi/) (Institute of Jewish Studies, University of Antwerp, 26 May 2014).
 - Introductory workshop 'Digital Tools for Historical Research' (with Ilja Nieuwland), [THATCamp The Hague 2014](http://thehague2014.thatcamp.org/) (The Hague, 14-15 January 2014).
 
@@ -152,7 +152,7 @@ author_profile: true
 
 - 'Digital tools to complex archival sources: Introduction', _Researchmaster Posthumus Institute Leiden -­ Keys to the Treasure trove_ (Huygens ING, 2 December 2011).
 - 'The 'Jewish freedom fighter': Constructing a Transnational Cult of Jewish Heroes  during the Spanish Civil War', _Cult of Heroes in Central Europe from the 1880s to the Second World War – Transnational and Transdisciplinary Aspects_ (University of Paris-Sorbonne – Paris, 25-26 November 2011).
-- [invited] 'Internet resources for historical research: Jewish content in a broader context', _Judaica Europeana Digital Humanities_ Workshop (British Library, 31 October 2011).
+- 'Internet resources for historical research: Jewish content in a broader context', _Judaica Europeana Digital Humanities_ Workshop (British Library, 31 October 2011).
 - 'Yiddish in contemporary Europe', _Jewishness in Contemporary Culture: American and European Perspectives_ (Warsaw School of Social Sciences and Humanities, 17-18 May, 2011).
 - 'Finding and filtering digital primary sources' (workshop), _THATCamp Florence 2011_ (European University Institute, Florence, 23-25 March 2011).
 
