@@ -30,7 +30,7 @@ author_profile: true
 ## Peer-reviewed articles
 ---
 
-- [Facing the History Machine: Towards Histories of Digital History](https://orbilu.uni.lu/handle/10993/61381), forthcoming [History of Humanities](https://www.journals.uchicago.edu/toc/hoh/current).
+- [Facing the History Machine: Towards Histories of Digital History](https://orbilu.uni.lu/handle/10993/61381), forthcoming in [History of Humanities](https://www.journals.uchicago.edu/toc/hoh/current).
 - [Digital History and the Politics of Digitisation](https://doi.org/10.1093/llc/fqac050), _Digital Scholarship in the Humanities_ 38/2 (2023) 830–851.
 - [The 'Jewish Freedom Fighter'. The legacy of Naftali Botwin and the construction of a transnational cult of Jewish heroes](http://hdl.handle.net/10993/37715), Clara Royer and Eszter Balasz eds., _The Cult of Heroes in Central Europe (1880-1945) – Transnational and Interdisciplinary Aspects_ (Paris: Eur'Orbem Éditions, 2019).
 - [#DHJewish – Jewish Studies in the digital age](https://www.medaon.de/de/artikel/dhjewish-jewish-studies-in-the-digital-age/), _Medaon_ 23 (2018).
