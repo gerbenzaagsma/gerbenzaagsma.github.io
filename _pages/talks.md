@@ -12,7 +12,10 @@ author_profile: true
 - 01-04 July 2024, Politics of Digitisation session at the [EUROPAST Summer School 'The Use of Digital Tools and Methods in the Creation, Production, and Analysis of Public History Narratives'](https://www.europast.vu.lt/events/call-for-participation/europast-summer-school-call-for-participants) (University of Luxembourg).
 - 22-24 August 2024, 'Digital Archival Literacy and Historical Research Practices: An Interactive Panel Discussion on History, Technology, and the Transformation of the Archive', [Historicidagen 2024](https://historicidagen.nl/) (Maastricht University).
 - 12 September 2024, Keynote lecture 'When Literacy Goes Digital: Rethinking the Ethics and Politics of Digitisation' at [Digital History Switzerland 2024](https://conferences.unibas.ch/frontend/index.php?folder_id=234).
+- 9-11 October 2024, 'Framing Histories of Digital History', part of panel _Histories of Digital History: An Integral Part of the History of the Humanities?_, [Making of the Humanities XI](https://www.historyofhumanities.org/upcoming-meetings/the-making-of-the-humanities-xi-lund-2024/) (Lund University). 
 - 23-25 October 2024, 'Facing the History Machine: Towards Histories of Digital History', [Revolutionary, disruptive, or just repeating itself? Tracing the History of Digital History](https://dhdhi.hypotheses.org/8726) (German Historical Institute, Paris).
+- 6-7 November 2024, 'Digitising European minority heritage: the case of Yiddish', International conference _European Cultural Memory in its Digitalization - Inventing Cultural Memory in the 21st Century?_ (University of Graz).
+- 26-29 March 2025, 'Framing Histories of Digital History: the Role of Transnational Networks', [15th European Social Science History Conference](https://esshc.iisg.amsterdam/en/esshc-conference-2025) (Leiden University).
 
 
 
