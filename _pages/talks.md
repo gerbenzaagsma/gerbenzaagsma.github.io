@@ -9,7 +9,6 @@ author_profile: true
 ## Upcoming
 ---
 
-- 01-04 July 2024, Politics of Digitisation session at the [EUROPAST Summer School 'The Use of Digital Tools and Methods in the Creation, Production, and Analysis of Public History Narratives'](https://www.europast.vu.lt/events/call-for-participation/europast-summer-school-call-for-participants) (University of Luxembourg).
 - 22-24 August 2024, 'Digital Archival Literacy and Historical Research Practices: An Interactive Panel Discussion on History, Technology, and the Transformation of the Archive', [Historicidagen 2024](https://historicidagen.nl/) (Maastricht University).
 - 12 September 2024, Keynote lecture 'When Literacy Goes Digital: Rethinking the Ethics and Politics of Digitisation' at [Digital History Switzerland 2024](https://conferences.unibas.ch/frontend/index.php?folder_id=234).
 - 9-11 October 2024, 'Framing Histories of Digital History', part of panel _Histories of Digital History: An Integral Part of the History of the Humanities?_, [Making of the Humanities XI](https://www.historyofhumanities.org/upcoming-meetings/the-making-of-the-humanities-xi-lund-2024/) (Lund University). 
@@ -22,6 +21,7 @@ author_profile: true
 ## 2024
 ---
 
+- 01-04 July 2024, Politics of Digitisation session at the [EUROPAST Summer School 'The Use of Digital Tools and Methods in the Creation, Production, and Analysis of Public History Narratives'](https://www.europast.vu.lt/events/call-for-participation/europast-summer-school-call-for-participants) (University of Luxembourg).
 
 - 10-12 April 2024, Roundtable: DHJewish Quo Vadis?, [The Value of the Digital. #DHJewish Conference and Hackathon](https://www.mmz-potsdam.de/aktuelles/veranstaltungen/2024/the-value-of-the-digital-dhjewish-conference-and-hackathon) (Potsdam).
 
