@@ -44,7 +44,6 @@ author_profile: true
 - [On Digital History](https://www.bmgn-lchr.nl/articles/abstract/10.18352/bmgn-lchr.9344/), _BMGN - Low Countries Historical Review_ 128/4 (2013) 3-29.
 - 'Using Digital Sources in Historical Research. Jewish History on the Internet' in: Frédéric Clavert and Serge Noiret eds., _Contemporary history in the digital age_ (Oxford; Peter Lang, 2013) 201-213.
 - 'Propaganda or fighting the myth of pakhdones? Naye Prese, the Popular Front, and the Spanish Civil War' in: Lara Rabinovitch, Shiri Goren and Hannah Pressman eds., [Choosing Yiddish: New Frontiers of Language and Culture ](https://www.wsupress.wayne.edu/books/detail/choosing-yiddish)(Detroit; Wayne State University Press, 2012) 87-103.
-
 - [Public history beyond the state: Presenting the Yiddish past in contemporary Europe](http://www.fondazionecasadioriani.it/modules.php?name=MR&op=body&id=554),  _Memoria e Ricerca_ 37 (2011) 37, 129-142.
 - [Die Botwin Kompagnie](https://referenceworks.brillonline.com/entries/enzyklopaedie-judischer-geschichte-und-kultur/botwin-kompanie-COM_0113?s.num=6) in: Dan Diner ed., _Enzyklopädie jüdischer Geschichte und Kultur_ (Stuttgart; Metzler Verlag, 2011) 392-397.
 - 'Transnational networks of Jewish migrant radicals - The case of Berlin' in: Verena Dohrn and Gertrud Pickhan eds., [Transit und Transformation: Osteuropäisch-Jüdische Migranten in Berlin 1918-1939](https://www.wallstein-verlag.de/9783835307971-transit-und-transformation.html) (Göttingen; Wallstein Verlag, 2010) 218-233.
