@@ -27,33 +27,30 @@ author_profile: true
 
 
 
-## Peer-reviewed articles
+## Articles & book chapters
 ---
 
 - [Facing the History Machine: Towards Histories of Digital History](https://orbilu.uni.lu/handle/10993/61381), forthcoming in _History of Humanities_.
-- [Digital History and the Politics of Digitisation](https://doi.org/10.1093/llc/fqac050), _Digital Scholarship in the Humanities_ 38/2 (2023) 830–851.
-- [The 'Jewish Freedom Fighter'. The legacy of Naftali Botwin and the construction of a transnational cult of Jewish heroes](http://hdl.handle.net/10993/37715), Clara Royer and Eszter Balasz eds., _The Cult of Heroes in Central Europe (1880-1945) – Transnational and Interdisciplinary Aspects_ (Paris: Eur'Orbem Éditions, 2019).
-- [#DHJewish – Jewish Studies in the digital age](https://www.medaon.de/de/artikel/dhjewish-jewish-studies-in-the-digital-age/), _Medaon_ 23 (2018).
-- 'Jewish responses to anti-Semitism in Paris and London in the late 1930s as European Jewish political history' in: Frank Bajohr and Dieter Pohl eds., [Right-Wing Politics and the Rise of Antisemitism in Europe 1935-1941](https://www.wallstein-verlag.de/9783835333475-frank-bajohr-und-dieter-pohl-right-wing-politics-and-the-rise-of-antisemitism-in-europe-1935-1941.html) (Göttingen; Wallstein-Verlag, 2018) 95-113.
-- [On Digital History](https://www.bmgn-lchr.nl/articles/abstract/10.18352/bmgn-lchr.9344/), _BMGN - Low Countries Historical Review_ 128/4 (2013) 3-29.
-- [Public history beyond the state: Presenting the Yiddish past in contemporary Europe](http://www.fondazionecasadioriani.it/modules.php?name=MR&op=body&id=554),  _Memoria e Ricerca_ 37 (2011) 37, 129-142.
-- 'The Local and the International - Jewish Communists in Paris Between the Wars', _Simon Dubnow Institute Yearbook_ 8 (2009) 345-363.
-- ['Red Devils': The Botwin company in the Spanish Civil War](https://www.tandfonline.com/doi/pdf/10.1080/13501670308577990), _East European Jewish Affairs_ 33 (2003) 83-99.
-
-
-## Book chapters & other articles
----
 - 'Between Online and Offline: Doing Archival Research in the Digital Age', [ARCHIV. theorie & praxis](https://www.archive.nrw.de/landesarchiv-nrw/ueber-uns/archiv-theorie-praxis) 77/1 (2024) 16-19. [PDF](https://orbilu.uni.lu/handle/10993/60512).
+- [Digital History and the Politics of Digitisation](https://doi.org/10.1093/llc/fqac050), _Digital Scholarship in the Humanities_ 38/2 (2023) 830–851.
 - 'Introduction' in: [Jewish Studies in the Digital Age](https://www.degruyter.com/document/doi/10.1515/9783110744828/html) (Berlin: De Gruyter, 2022). Co-authored with Michelle Margolis, Amalia Levi, Daniel Stökl Ben Ezra and Miriam Rürup.
 - 'Introduction' in: [Handbook of Digital Public History](https://www.degruyter.com/document/doi/10.1515/9783110430295/html) (Berlin: De Gruyter Oldenbourg, 2022) 1-15. Co-authored with Serge Noiret and Mark Tebeau.
 - 'Content Management' in: [Handbook of Digital Public History](http://www.degruyter.com/document/doi/10.1515/9783110430295/html) (Berlin: De Gruyter Oldenbourg, 2022) 433-439.
 - [Introduction: Integrating Digital Humanities](https://journal.dhbenelux.org/journal/issues/001/Preface-guest-editors/guestedtiors_intro.tex.html), Inaugural issue of [DH Benelux journal](https:///web.archive.org/web/20231022070908/http://journal.dhbenelux.org/) (September 2019). Co-authored with Julie Birkholz.
+- [The 'Jewish Freedom Fighter'. The legacy of Naftali Botwin and the construction of a transnational cult of Jewish heroes](http://hdl.handle.net/10993/37715), Clara Royer and Eszter Balasz eds., _The Cult of Heroes in Central Europe (1880-1945) – Transnational and Interdisciplinary Aspects_ (Paris: Eur'Orbem Éditions, 2019).
+- [#DHJewish – Jewish Studies in the digital age](https://www.medaon.de/de/artikel/dhjewish-jewish-studies-in-the-digital-age/), _Medaon_ 23 (2018).
+- 'Jewish responses to anti-Semitism in Paris and London in the late 1930s as European Jewish political history' in: Frank Bajohr and Dieter Pohl eds., [Right-Wing Politics and the Rise of Antisemitism in Europe 1935-1941](https://www.wallstein-verlag.de/9783835333475-frank-bajohr-und-dieter-pohl-right-wing-politics-and-the-rise-of-antisemitism-in-europe-1935-1941.html) (Göttingen; Wallstein-Verlag, 2018) 95-113.
 - 'Digital Resources and Tools in Historical Research. [Picture archives and the emergence of visual history of education. ISCHE 40 pre-conference workshop. 3rd workshop "Pictura Paedagogica Online: educational knowledge in images" ](https://www.pedocs.de/frontdoor.php?source_opus=15814)(Berlin, 2018). Co-authored with Lars Wieneke.
--  'Using Digital Sources in Historical Research. Jewish History on the Internet' in: Frédéric Clavert and Serge Noiret eds., _Contemporary history in the digital age_ (Oxford; Peter Lang, 2013) 201-213.
+- [On Digital History](https://www.bmgn-lchr.nl/articles/abstract/10.18352/bmgn-lchr.9344/), _BMGN - Low Countries Historical Review_ 128/4 (2013) 3-29.
+- 'Using Digital Sources in Historical Research. Jewish History on the Internet' in: Frédéric Clavert and Serge Noiret eds., _Contemporary history in the digital age_ (Oxford; Peter Lang, 2013) 201-213.
 - 'Propaganda or fighting the myth of pakhdones? Naye Prese, the Popular Front, and the Spanish Civil War' in: Lara Rabinovitch, Shiri Goren and Hannah Pressman eds., [Choosing Yiddish: New Frontiers of Language and Culture ](https://www.wsupress.wayne.edu/books/detail/choosing-yiddish)(Detroit; Wayne State University Press, 2012) 87-103.
-- 'Transnational networks of Jewish migrant radicals - The case of Berlin' in: Verena Dohrn and Gertrud Pickhan eds., [Transit und Transformation: Osteuropäisch-Jüdische Migranten in Berlin 1918-1939](https://www.wallstein-verlag.de/9783835307971-transit-und-transformation.html) (Göttingen; Wallstein Verlag, 2010) 218-233.
+
+- [Public history beyond the state: Presenting the Yiddish past in contemporary Europe](http://www.fondazionecasadioriani.it/modules.php?name=MR&op=body&id=554),  _Memoria e Ricerca_ 37 (2011) 37, 129-142.
 - [Die Botwin Kompagnie](https://referenceworks.brillonline.com/entries/enzyklopaedie-judischer-geschichte-und-kultur/botwin-kompanie-COM_0113?s.num=6) in: Dan Diner ed., _Enzyklopädie jüdischer Geschichte und Kultur_ (Stuttgart; Metzler Verlag, 2011) 392-397.
+- 'Transnational networks of Jewish migrant radicals - The case of Berlin' in: Verena Dohrn and Gertrud Pickhan eds., [Transit und Transformation: Osteuropäisch-Jüdische Migranten in Berlin 1918-1939](https://www.wallstein-verlag.de/9783835307971-transit-und-transformation.html) (Göttingen; Wallstein Verlag, 2010) 218-233.
+- 'The Local and the International - Jewish Communists in Paris Between the Wars', _Simon Dubnow Institute Yearbook_ 8 (2009) 345-363.
 - [Yiddish in Historical Research: Some Reflections](http://www.jstor.org/stable/41444026), _European Judaism_ 42 (2009) 19-23.
+- ['Red Devils': The Botwin company in the Spanish Civil War](https://www.tandfonline.com/doi/pdf/10.1080/13501670308577990), _East European Jewish Affairs_ 33 (2003) 83-99.
 - [The klezmorim of Prague. About a Jewish musicians guild](https://www.klezmershack.com/articles/zaagsma.prague.html), _East European Meetings in Ethnomusicology_ 7 (2000) 41-48.
 
 
