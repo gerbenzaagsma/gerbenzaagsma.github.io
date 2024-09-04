@@ -7,10 +7,10 @@ author_profile: true
 
 
 
-## Under review:
+## Under review/forthcoming:
 ---
-* Article _Facing the History Machine: Towards Histories of Digital History_ (History of Humanities). _Accepted for publication_.
-* Chapter _Help, Betrayal and the Importance of Networks – Jews in Hiding in the Netherlands and the Case of Anne Frank_ (in edited volume to be published with new critical edition of the Anne Frank diaries, Cambridge University Press, 2024).
+* Forthcoming: [Facing the History Machine: Towards Histories of Digital History](https://orbilu.uni.lu/handle/10993/61381) (History of Humanities).
+* Under review: Chapter _Help, Betrayal and the Importance of Networks – Jews in Hiding in the Netherlands and the Case of Anne Frank_ (in edited volume to be published with new critical edition of the Anne Frank diaries, Cambridge University Press, 2024/2025).
 
 
 
