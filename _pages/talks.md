@@ -19,7 +19,7 @@ author_profile: true
 ## 2024
 ---
 
-- 12 September 2024, Keynote lecture 'When Literacy Goes Digital: Rethinking the Ethics and Politics of Digitisation' at [Digital History Switzerland 2024](https://digihistch24.github.io/book-of-abstracts/submissions/keynote/).
+- 12 September 2024, Keynote lecture 'When Literacy Goes Digital: Rethinking the Ethics and Politics of Digitisation' at [Digital History Switzerland 2024](https://digihistch24.github.io/book-of-abstracts/submissions/keynote/). See [abstract](https://digihistch24.github.io/book-of-abstracts/submissions/keynote/).
 - 22-24 August 2024, 'Digital Archival Literacy and Historical Research Practices: An Interactive Panel Discussion on History, Technology, and the Transformation of the Archive', [Historicidagen 2024](https://historicidagen.nl/) (Maastricht University).
 - 1-4 July 2024, Politics of Digitisation session at the [EUROPAST Summer School 'The Use of Digital Tools and Methods in the Creation, Production, and Analysis of Public History Narratives'](https://www.europast.vu.lt/events/call-for-participation/europast-summer-school-call-for-participants) (University of Luxembourg).
 - 10-12 April 2024, Roundtable: DHJewish Quo Vadis?, [The Value of the Digital. #DHJewish Conference and Hackathon](https://www.mmz-potsdam.de/aktuelles/veranstaltungen/2024/the-value-of-the-digital-dhjewish-conference-and-hackathon) (Potsdam).
