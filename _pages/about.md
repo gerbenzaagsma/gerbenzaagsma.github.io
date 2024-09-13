@@ -14,8 +14,8 @@ Before joining C²DH in August 2017, I worked in a number of different places an
 <br/>
 
 ## Latest updates:
+* The first ever conference on _Tracing the History of Digital History_ will take place in Paris between 23-25 Ocober 2024. The program is now online [here](https://dhdhi.hypotheses.org/9978).
 * My long new article, [Facing the History Machine: Towards Histories of Digital History](https://orbilu.uni.lu/handle/10993/61381) has been accepted for publication in _History of Humanities_.
-* I am delighted to give a keynote lecture at [Digital History Switzerland 2024](https://conferences.unibas.ch/frontend/index.php?folder_id=234) in September 2024 entitled 'When Literacy Goes Digital: Rethinking the Ethics and Politics of Digitisation'.
 * A new short article 'Between Online and Offline: Doing Archival Research in the Digital Age' was published in a special issue of the German archival journal [ARCHIV. theorie & praxis](https://www.archive.nrw.de/landesarchiv-nrw/ueber-uns/archiv-theorie-praxis) on _Originalerhalt und Digitalisierung_. **[<sup>PDF</sup>](https://orbilu.uni.lu/handle/10993/60512)**.
 
 
