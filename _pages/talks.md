@@ -9,7 +9,7 @@ author_profile: true
 ## Upcoming
 ---
 
-- 6-7 November 2024, 'Digitising European minority heritage: the case of Yiddish', International conference _European Cultural Memory in its Digitalization - Inventing Cultural Memory in the 21st Century?_ (University of Graz).
+- 6-7 November 2024, 'Digitising European minority heritage: the case of Yiddish', [International Conference European Cultural Memory in its Digitalization - Inventing Cultural Memory in the 21st Century?](https://juedischestudien.uni-graz.at/de/neuigkeiten/international-conference-european-cultural-memory-in-its-digitalization/) (University of Graz).
 - 26-29 March 2025, 'Framing Histories of Digital History: the Role of Transnational Networks', [15th European Social Science History Conference](https://esshc.iisg.amsterdam/en/esshc-conference-2025) (Leiden University).
 
 
