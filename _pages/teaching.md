@@ -10,15 +10,13 @@ redirect_from:
 
 
 ## PhD supervision:
-
 ---
 
-- 2024-present: Julia Göke, _Cloud Native Shared Authority: A.I. Enhanced Public Participation in Digital History_ (in C²DH doctoral training school [Deep Data Science of Digital History](https://dhh.uni.lu/d4h/)).
+* 2024-present: Julia Göke, _Cloud Native Shared Authority: A.I. Enhanced Public Participation in Digital History_ (in C²DH doctoral training school [Deep Data Science of Digital History](https://dhh.uni.lu/d4h/)).
 
 
-**Recent workshop**:
-* 18 October 2023, ‘An Introduction to the Theory and Methods of Data Driven Research’, EUROPAST workshop (Lund University).
-
+## Teaching:
+---
 
 Since **2017**, I have taught the following BA and MA courses at the **University of Luxembourg**:
 * 2024-2025: Ma seminar Introduction to Digital History (as convener and co-lecturer). [MaDiPH](https://www.uni.lu/fhse-en/study-programs/master-in-digital-and-public-history/)
@@ -38,3 +36,5 @@ Between **1997-2017** I have taught a variety of courses and seminars in several
 * 1997\. Seminar Jewish History in the Netherlands and the City of Groningen, Adult Education Academy, University of Groningen.
 
 
+**Recent workshop**:
+* 18 October 2023, ‘An Introduction to the Theory and Methods of Data Driven Research’, EUROPAST workshop (Lund University).
