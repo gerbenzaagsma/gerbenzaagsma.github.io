@@ -17,7 +17,7 @@ redirect_from:
 ## Teaching:
 
 
-Since **2017**, I have taught the following BA and MA courses at the **University of Luxembourg**:
+Since **2017**, I have taught the following BA and MA courses at the **University of Luxembourg** in our Bachelor in European Cultures (BCE), Master in European Contemporary History (MAHEC), and Master in Digital and Public History (MADiPH) programmes:
 * 2024-2025: Ma seminar Introduction to Digital History (as convener and co-lecturer). [MaDiPH](https://www.uni.lu/fhse-en/study-programs/master-in-digital-and-public-history/)
 * 2023-2025: MA seminar Debating Genocide and Mass Violence in the 21st Century: Europe and Beyond. [MAHEC](https://www.uni.lu/fhse-en/study-programs/master-en-histoire-europeenne-contemporaine/)
 * 2020-2025: BA seminar Music and Contemporary History. [BCE](https://www.uni.lu/fhse-en/study-programs/bachelor-en-cultures-europeennes-histoire/)
