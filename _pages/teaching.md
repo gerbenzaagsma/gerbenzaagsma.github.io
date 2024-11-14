@@ -35,5 +35,5 @@ And between **1997-2017** I taught various courses and seminars in several count
 * 1997\. Seminar Jewish History in the Netherlands and the City of Groningen, Adult Education Academy, University of Groningen.
 
 
-**Recent workshop**:
+Occasionally I teach workshops, such as this **recent workshop**:
 * 18 October 2023, ‘An Introduction to the Theory and Methods of Data Driven Research’, EUROPAST workshop (Lund University).
