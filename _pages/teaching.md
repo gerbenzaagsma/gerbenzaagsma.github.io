@@ -28,7 +28,7 @@ Since **2017**, I have taught the following BA and MA courses at the **Universit
 * 2017-2018: MA seminar Jewish responses to Persecution and Anti-Semitism in the 20th Century. [MAHEC](https://www.uni.lu/fhse-en/study-programs/master-en-histoire-europeenne-contemporaine/)
 
 
-Between **1997-2017** I taught various courses and seminars in several countries:
+And between **1997-2017** I taught various courses and seminars in several countries:
 * 2015-2016. BA seminar Jewish Responses to Persecution and Anti-Semitism in the 20th century, Seminar für Neuere und Neueste Geschichte, Georg-August Universität Göttingen.
 * 2013\. Seminar Digital Historical Research at the Huygens Institute for the History of the Netherlands and the NIOD Institute for War, Holocaust and Genocide Studies.
 * 2008-2017. Various (invited) lectures & skills seminars taught on modern Jewish history and digital humanities in the UK, France, Luxembourg, Netherlands, for undergraduate/graduate/postgraduate students.
