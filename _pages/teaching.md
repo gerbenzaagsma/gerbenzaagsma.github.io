@@ -10,7 +10,6 @@ redirect_from:
 
 
 ## PhD supervision:
----
 
 * 2024-present: Julia Göke, _Cloud Native Shared Authority: A.I. Enhanced Public Participation in Digital History_ (in C²DH doctoral training school [Deep Data Science of Digital History](https://dhh.uni.lu/d4h/)).
 
