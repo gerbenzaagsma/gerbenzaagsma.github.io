@@ -9,7 +9,6 @@ redirect_from:
 <br/>
 
 
-
 ## PhD supervision:
 
 * 2024-present: Julia Göke, _Cloud Native Shared Authority: A.I. Enhanced Public Participation in Digital History_ (in C²DH doctoral training school [Deep Data Science of Digital History](https://dhh.uni.lu/d4h/)).
@@ -43,3 +42,6 @@ redirect_from:
 * N. Kettenmeyer, Der Israel-palästina Konflikt: Der Sechs-Tage Krieg Von 1967. Analyse Der Presseberichterstattung Im Luxemburger Wort Und Dem Escher Tageblatt (2019-2020, second reader).
 * R.H. Swiercz, Der Aufstieg Und Niedergang Der Schieferindustrie in Obermartelingen Bis Hin Zum Freilichtmuseum (2019-2020, second reader).
 * T. Theis, Bougainville, Cook Und Die Pazifikfahrten. Die wissenschaftlichen Entdeckungen des späten 18. und frühen 19. Jahrhunderts im Pazifik (2019-2020, second reader).
+
+
+
