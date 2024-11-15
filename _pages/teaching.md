@@ -23,6 +23,7 @@ Since **2017**, I have taught the following BA and MA courses at the **Universit
 * 2020-2025: BA seminar Music and Contemporary History. _BCE_
 * 2020-2022: MA seminar Beyond the Diary of Anne Frank: Egodocuments and the Construction of Holocaust Memory. _MAHEC_
 * 2019-2022: MA seminar Introduction to Digital History/ Winter School in Digital History (as convener, coordinator, co-lecturer). _MAHEC_
+* 2019-2020: MA seminar Doing Digital History - The International Brigades in the Spanish Civil War. _MAHEC_
 * 2018-2019: MA seminar Digital Approaches to Modern Jewish History. _MAHEC_
 * 2017-2018: MA seminar Jewish responses to Persecution and Anti-Semitism in the 20th Century. _MAHEC_
 
