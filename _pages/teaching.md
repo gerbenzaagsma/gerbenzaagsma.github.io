@@ -34,5 +34,7 @@ Between **1997-2017** I taught various courses and seminars in several countries
 * 1997\. Seminar Jewish History in the Netherlands and the City of Groningen, Adult Education Academy, University of Groningen.
 
 
-Occasionally I teach workshops, such as this **recent workshop**:
+## Workshops / other:
+
 * 18 October 2023, ‘An Introduction to the Theory and Methods of Data Driven Research’, EUROPAST workshop (Lund University).
+* 22-27 September 2019, Geisteswissenschaftliches Kolleg 2 – Digital History, Studienstiftung des deutschen Volkes, Heidelberg (as co-organiser with Malte Rehbein).
