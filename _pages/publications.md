@@ -7,10 +7,11 @@ author_profile: true
 
 
 
-## Under review/forthcoming:
+## In progress/ under review:
 ---
-* Article [Facing the History Machine: Towards Histories of Digital History](https://orbilu.uni.lu/handle/10993/61381) (History of Humanities). Forthcoming.
-* Chapter _Help, Betrayal and the Importance of Networks – Jews in Hiding in the Netherlands and the Case of Anne Frank_ (in edited volume to be published with new critical edition of the Anne Frank diaries, Cambridge University Press, 2024/2025). Under review.
+
+* Chapter 'History and the Paradoxes of Digitisation: A Global Perspective'. _In progress_, edited volume conference [„Geschichte in der digitalen Gegenwart Geschichtsverständnisse zwischen ‚Postfaktizität’ und neuen Evidenzen”](https://zzf-potsdam.de/de/veranstaltungen/geschichte-der-digitalen-gegenwart-geschichtsverstandnisse-zwischen-postfaktizitat) (2025).
+* Chapter 'Help, Betrayal and the Importance of Networks – Jews in Hiding in the Netherlands and the Case of Anne Frank' (in edited volume on the Anne Frank diaries, Cambridge University Press, 2024/2025). _Under review_.
 
 
 
@@ -30,7 +31,7 @@ author_profile: true
 ## Articles & book chapters
 ---
 
-- [Facing the History Machine: Towards Histories of Digital History](https://orbilu.uni.lu/handle/10993/61381), forthcoming in _History of Humanities_.
+- [Facing the History Machine: Towards Histories of Digital History](https://orbilu.uni.lu/handle/10993/61381), forthcoming in _History of Humanities_ 9/2 (2024).
 - 'Between Online and Offline: Doing Archival Research in the Digital Age', [ARCHIV. theorie & praxis](https://www.archive.nrw.de/landesarchiv-nrw/ueber-uns/archiv-theorie-praxis) 77/1 (2024) 16-19. [PDF](https://orbilu.uni.lu/handle/10993/60512).
 - [Digital History and the Politics of Digitisation](https://doi.org/10.1093/llc/fqac050), _Digital Scholarship in the Humanities_ 38/2 (2023) 830–851.
 - 'Introduction' in: [Jewish Studies in the Digital Age](https://www.degruyter.com/document/doi/10.1515/9783110744828/html) (Berlin: De Gruyter, 2022). Co-authored with Michelle Margolis, Amalia Levi, Daniel Stökl Ben Ezra and Miriam Rürup.
