@@ -35,7 +35,7 @@ Between **1997-2017** I taught various courses and seminars in several countries
 * 1997\. Seminar Jewish History in the Netherlands and the City of Groningen, Adult Education Academy, University of Groningen.
 
 
-## Workshops / other:
+## Workshops & training:
 
 * 1-4 July 2024, 'The Politics of Digitisation and Public History', [EUROPAST Summer School 2024](https://www.europast.vu.lt/images/Europast_Belval_Summer_School_Final%201.pdf) (University of Luxembourg).
 * 18 October 2023, ‘An Introduction to the Theory and Methods of Data Driven Research’, [EUROPAST workshop](https://lucris.lub.lu.se/ws/portalfiles/portal/170554342/Researchers_and_managers_lab_programme_Final.pdf) (Lund University).
