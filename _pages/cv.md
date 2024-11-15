@@ -7,6 +7,7 @@ author_profile: true
 
 
 Please find below the most recent PDF version of my CV.
+
 _(updated to 15 November 2024)_
 
 
