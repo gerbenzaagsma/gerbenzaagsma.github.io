@@ -9,7 +9,7 @@ redirect_from:
 <br/>
 
 
-## Teaching:
+## BA & MA Teaching:
 
 
 Since **2017**, I have taught the following BA and MA courses at the **University of Luxembourg** in our [Bachelor in European Cultures (BCE)](https://www.uni.lu/fhse-en/study-programs/master-en-histoire-europeenne-contemporaine/), [Master in European Contemporary History (MAHEC)](https://www.uni.lu/fhse-en/study-programs/master-en-histoire-europeenne-contemporaine/), and [Master in Digital and Public History (MADiPH)](https://www.uni.lu/fhse-en/study-programs/master-in-digital-and-public-history/) programmes:
