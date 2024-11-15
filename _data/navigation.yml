@@ -20,8 +20,8 @@ main:
   - title: "Supervision"
     url: /supervision/ 
 
-  - title: "Blog"
-    url: /blog/
-   
   - title: "CV"
     url: /cv/
+
+  - title: "Blog"
+    url: /blog/
