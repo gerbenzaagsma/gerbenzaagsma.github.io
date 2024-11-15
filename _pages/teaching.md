@@ -9,11 +9,6 @@ redirect_from:
 <br/>
 
 
-## PhD supervision:
-
-* 2024-present: Julia Göke, _Cloud Native Shared Authority: A.I. Enhanced Public Participation in Digital History_ (in C²DH doctoral training school [Deep Data Science of Digital History](https://dhh.uni.lu/d4h/)).
-
-
 ## Teaching:
 
 
@@ -40,3 +35,10 @@ Between **1997-2017** I taught various courses and seminars in several countries
 * 1-4 July 2024, 'The Politics of Digitisation and Public History', [EUROPAST Summer School 2024](https://www.europast.vu.lt/images/Europast_Belval_Summer_School_Final%201.pdf) (University of Luxembourg).
 * 18 October 2023, ‘An Introduction to the Theory and Methods of Data Driven Research’, [EUROPAST workshop](https://lucris.lub.lu.se/ws/portalfiles/portal/170554342/Researchers_and_managers_lab_programme_Final.pdf) (Lund University).
 * 22-27 September 2019, Geisteswissenschaftliches Kolleg 2 – Digital History, Studienstiftung des deutschen Volkes, Heidelberg (as co-organiser with Malte Rehbein).
+
+
+## PhD supervision:
+
+* 2024-present: Julia Göke, _Cloud Native Shared Authority: A.I. Enhanced Public Participation in Digital History_ (in C²DH doctoral training school [Deep Data Science of Digital History](https://dhh.uni.lu/d4h/)).
+
+
