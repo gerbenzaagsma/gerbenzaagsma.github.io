@@ -10,7 +10,8 @@ author_profile: true
 ## In progress/ under review:
 ---
 
-* Chapter 'History and the Paradoxes of Digitisation: A Global Perspective'. _In progress_, edited volume conference [„Geschichte in der digitalen Gegenwart Geschichtsverständnisse zwischen ‚Postfaktizität’ und neuen Evidenzen”](https://zzf-potsdam.de/de/veranstaltungen/geschichte-der-digitalen-gegenwart-geschichtsverstandnisse-zwischen-postfaktizitat) (2025).
+* Chapter 'History and the Paradoxes of Digitisation: A Global Perspective' in: edited volume conference [„Geschichte in der digitalen Gegenwart Geschichtsverständnisse zwischen ‚Postfaktizität’ und neuen Evidenzen”](https://zzf-potsdam.de/de/veranstaltungen/geschichte-der-digitalen-gegenwart-geschichtsverstandnisse-zwischen-postfaktizitat) (2025). _In progress_.
+* Chapter 'Data in History' in: Pim Huijnen ed., _Engaging with Big and Small historical Data_ (forthcmong, routledge). _In progress_.
 * Chapter 'Help, Betrayal and the Importance of Networks – Jews in Hiding in the Netherlands and the Case of Anne Frank' (in edited volume on the Anne Frank diaries, Cambridge University Press, 2024/2025). _Under review_.
 
 
