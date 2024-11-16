@@ -20,10 +20,10 @@ redirect_from:
 * A. Ceman, _Memory of the Vietnam War in film and music_ (working title: in progress, supervisor).
 * L. Harf, _« Mein lieber Carlos » Lettres d’un juif luxembourgeois à son fils Luxembourg, 1940 – Montpellier, septembre 1942_ (2023-2024, second reader).
 * A. Lassine, _Commemoration of the Spueniekämpfer_ (2023-2024, supervisor).
-* J. Diseviscourt, _Transitioning Our Past Into the Future Practices of Digital Heritage in Luxembourg_ (2021-2022, supervisor).
+* J. Diseviscourt, _Transitioning Our Past Into the Future: Practices of Digital Heritage in Luxembourg_ (2021-2022, supervisor).
 * M. Gori, _Restitution and Compensation of Jews in Europe After the Holocaust: The Italian Case. The fate of the Jewish survivors through the EGELI documents and the media_ (2021-2022, supervisor).
 * K. Monteiro De Jesus, _A critical analysis of Sinti and Roma egodocuments: Keeping the Porajmos alive_ (2021-2022, supervisor).
-* M. Schieben, _Vom häftling Zum reichsbürger. Die Eindeutschung polnischer Zwangsarbeiter im SS-Sonderlager Hinzert_ (2020-2021, supervisor).
+* M. Schieben, _Vom häftling Zum reichsbürger: Die Eindeutschung polnischer Zwangsarbeiter im SS-Sonderlager Hinzert_ (2020-2021, supervisor).
 
 
 
