@@ -14,9 +14,7 @@ Before joining C²DH in August 2017, I worked in a number of different places an
 <br/>
 
 ## Latest updates:
-* My new long article, [Facing the History Machine: Towards Histories of Digital History](https://orbilu.uni.lu/handle/10993/61381) will appear in the upcoming issue of _History of Humanities_.
-* A new short article 'Between Online and Offline: Doing Archival Research in the Digital Age' was published in a special issue of the German archival journal [ARCHIV. theorie & praxis](https://www.archive.nrw.de/landesarchiv-nrw/ueber-uns/archiv-theorie-praxis) on _Originalerhalt und Digitalisierung_. **[<sup>PDF</sup>](https://orbilu.uni.lu/handle/10993/60512)**.
-
+* New article: [Facing the History Machine: Towards Histories of Digital History](https://orbilu.uni.lu/handle/10993/61381) in _History of Humanities_ 9/2 (2024) 451-491.
 
 
 <br/>
