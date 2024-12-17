@@ -33,7 +33,7 @@ author_profile: true
 ## Articles & book chapters
 ---
 
-- [Facing the History Machine: Towards Histories of Digital History](https://orbilu.uni.lu/handle/10993/61381), forthcoming in _History of Humanities_ 9/2 (2024).
+- [Facing the History Machine: Toward Histories of Digital History](https://orbilu.uni.lu/handle/10993/61381), _History of Humanities_ 9/2 (2024) 451-491.
 - 'Between Online and Offline: Doing Archival Research in the Digital Age', [ARCHIV. theorie & praxis](https://www.archive.nrw.de/landesarchiv-nrw/ueber-uns/archiv-theorie-praxis) 77/1 (2024) 16-19. [PDF](https://orbilu.uni.lu/handle/10993/60512).
 - [Digital History and the Politics of Digitisation](https://doi.org/10.1093/llc/fqac050), _Digital Scholarship in the Humanities_ 38/2 (2023) 830–851.
 - 'Introduction' in: [Jewish Studies in the Digital Age](https://www.degruyter.com/document/doi/10.1515/9783110744828/html) (Berlin: De Gruyter, 2022). Co-authored with Michelle Margolis, Amalia Levi, Daniel Stökl Ben Ezra and Miriam Rürup.
