@@ -9,6 +9,7 @@ author_profile: true
 ## Upcoming
 ---
 
+- 21 February 2025, 'The Digital Archive and the Politics of Digitisation', [New Trends in Digital Culture Studies, Online Workshop 1: Creation of the Digital Archive](https://dight-net.tlu.ee/event/online-workshop-creation-of-a-digital-archive/) (DIGHT-Net workshop).
 - 26-29 March 2025, 'Framing Histories of Digital History: the Role of Transnational Networks', [15th European Social Science History Conference](https://esshc.iisg.amsterdam/en/esshc-conference-2025) (Leiden University).
 - 10-12 September 2025, 'Tracing the History of Digital History as Global History' in panel “Global and transregional histories: digitally connected?”, [Eighth European Congress on Universal and Global History](https://research.uni-leipzig.de/~eniugh/congress/) (Linnaeus University, Växjö, Sweden).
 
