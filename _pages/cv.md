@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 
-_Updated to 24 January 2025)._
+_Updated to 24 January 2025._
 
 
 <br/>
