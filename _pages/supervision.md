@@ -9,15 +9,16 @@ redirect_from:
 <br/>
 
 
-## PhD supervision:
+## PhD theses:
 
-* 2024-present: Julia Göke, _Cloud Native Shared Authority: A.I. Enhanced Public Participation in Digital History_ (in C²DH doctoral training school [Deep Data Science of Digital History](https://dhh.uni.lu/d4h/)).
+* J. Göke, _Cloud Native Shared Authority: A.I. Enhanced Public Participation in Digital History_ in C²DH doctoral training school [Deep Data Science of Digital History](https://dhh.uni.lu/d4h/) (in progress, supervisor).
+* J. Urbanek, _KZ Syndrome. Traumatic experience of Auschwitz in medical records, psychological discourse and its cultural representation (1945-1992)»_ (in progress, member thesis committee)
 
 
 ## MA theses:
 
 * I. Korac, _Commemorations of the Srebrenica genocide in Luxembourg_ (working title: in progress, supervisor).
-* A. Ceman, _Memory of the Vietnam War in film and music_ (working title: in progress, supervisor).
+* A. Ceman, _Memory of the Vietnam War in film and music_ (2023-2024, supervisor).
 * L. Harf, _« Mein lieber Carlos » Lettres d’un juif luxembourgeois à son fils Luxembourg, 1940 – Montpellier, septembre 1942_ (2023-2024, second reader).
 * A. Lassine, _Commemoration of the Spueniekämpfer_ (2023-2024, supervisor).
 * J. Diseviscourt, _Transitioning Our Past Into the Future: Practices of Digital Heritage in Luxembourg_ (2021-2022, supervisor).
