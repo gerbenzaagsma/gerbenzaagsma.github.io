@@ -15,7 +15,7 @@ Before joining C²DH in August 2017, I worked in a number of different places an
 
 ## Latest updates:
 * New article: [Facing the History Machine: Toward Histories of Digital History](https://orbilu.uni.lu/handle/10993/61381) in _History of Humanities_ 9/2 (2024) 451-491.
-
+* The recording of my keynote lecture 'When Literacy Goes Digital: Rethinking the Ethics and Politics of Digitisation' for [Digital History Switzerland 2024](https://digihistch24.github.io/book-of-abstracts/submissions/keynote/) is now [available on Zenodo](https://zenodo.org/records/14340336).
 
 <br/>
 <br/>
