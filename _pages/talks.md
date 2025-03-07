@@ -10,6 +10,7 @@ author_profile: true
 ---
 
 - 26-29 March 2025, 'Framing Histories of Digital History: The Role of Transnational Networks', [15th European Social Science History Conference](https://esshc.iisg.amsterdam/en/esshc-conference-2025) (Leiden University).
+- 3-6 June 2025, 'Probing Transnational Networks in the History of Digital History: Uppsala 1973 and the First Historical Computing Conference', [DH Benelux 2025](https://2025.dhbenelux.org/) (Vrije Universiteit, Amsterdam).
 - 10-12 September 2025, 'Tracing the History of Digital History as Global History' in panel “Global and transregional histories: digitally connected?”, [Eighth European Congress on Universal and Global History](https://research.uni-leipzig.de/~eniugh/congress/) (Linnaeus University, Växjö, Sweden).
 
 
