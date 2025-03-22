@@ -17,7 +17,7 @@ author_profile: true
 ## 2025
 ---
 
-- 21 February 2025, 'The Digital Archive and the Politics of Digitisation', [New Trends in Digital Culture Studies, Online Workshop 1: Creation of the Digital Archive](https://dight-net.tlu.ee/event/online-workshop-creation-of-a-digital-archive/) (DIGHT-Net workshop). 
+- 21 February 2025, 'The Digital Archive and the Politics of Digitisation', [New Trends in Digital Culture Studies, Online Workshop 1: Creation of the Digital Archive](https://dight-net.tlu.ee/event/online-workshop-creation-of-a-digital-archive/) (DIGHT-Net workshop). Recording [here](https://www.youtube.com/watch?v=NO3vFIAwnMs).
 
 
 ## 2024
