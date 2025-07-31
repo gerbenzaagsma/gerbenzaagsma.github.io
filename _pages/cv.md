@@ -12,4 +12,4 @@ _Latest update: 31 July 2025._
 
 <br/>
 
-<embed src="https://gerbenzaagsma.github.io/files/Zaagsma-CV-20250414.pdf" type="application/pdf" width="400px" height="600px" />
+<embed src="https://gerbenzaagsma.github.io/files/Zaagsma-CV-20250731.pdf" type="application/pdf" width="400px" height="600px" />
