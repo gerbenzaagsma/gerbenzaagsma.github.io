@@ -17,8 +17,8 @@ redirect_from:
 
 ## MA theses:
 
-* F. Moura, _Mémoire collective du Luxembourg en rélation avec son passé coloniale_ (working title: in progress, supervisor).
 * I. Korac, _Commemorations of the Srebrenica genocide in Luxembourg_ (working title: in progress, supervisor).
+* F. Moura, _Mémoire collective du Luxembourg en rélation avec son passé coloniale_ (2024-2025, supervisor).
 * A. Ceman, _Memory of the Vietnam War in film and music_ (2023-2024, supervisor).
 * L. Harf, _« Mein lieber Carlos » Lettres d’un juif luxembourgeois à son fils Luxembourg, 1940 – Montpellier, septembre 1942_ (2023-2024, second reader).
 * A. Lassine, _Commemoration of the Spueniekämpfer_ (2023-2024, supervisor).
