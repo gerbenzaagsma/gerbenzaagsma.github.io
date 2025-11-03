@@ -9,7 +9,6 @@ author_profile: true
 ## Upcoming
 ---
 
-- 8-10 October 2025, 'Knowledge Circulation, Technology and Historical Knowledge Production', Panel _Knowledge Networks and the History of Humanities Computing_, [History of Knowledge Conference](https://newhistoryofknowledge.com/2025/02/17/the-history-of-knowledge-conference/) (Lund University).
 - 5-6 February 2026, 'Socio-epistemic networks and the Development of Historical Computing', Workshop _History of Digital History between East and West_ (University of Luxembourg).
 - 27-30 August 2026, 'Technology and the Transnational Making of History in the Longue Durée: An Introduction', panel "Technology and the Making of History", [CISH Centennial Conference 2026](https://www.cish.org/index.php/en/) (Leipzig University).
 
@@ -17,6 +16,7 @@ author_profile: true
 ## 2025
 ---
 
+- 8-10 October 2025, 'Knowledge Circulation, Technology and Historical Knowledge Production', Panel _Knowledge Networks and the History of Humanities Computing_, [History of Knowledge Conference](https://newhistoryofknowledge.com/2025/02/17/the-history-of-knowledge-conference/) (Lund University).
 - 10-12 September 2025, 'Tracing the History of Digital History as Global History' in panel “Global and transregional histories: digitally connected?”, [Eighth European Congress on Universal and Global History](https://research.uni-leipzig.de/~eniugh/congress/) (Linnaeus University, Växjö, Sweden).
 - 3-6 June 2025, 'Probing Transnational Networks in the History of Digital History: Uppsala 1973 and the First Historical Computing Conference', [DH Benelux 2025](https://2025.dhbenelux.org/) (Vrije Universiteit, Amsterdam).
 - 26-29 March 2025, 'Framing Histories of Digital History: The Role of Transnational Networks', [15th European Social Science History Conference](https://esshc.iisg.amsterdam/en/esshc-conference-2025) (Leiden University).
