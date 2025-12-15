@@ -12,17 +12,9 @@ Welcome to the website of Gerben Zaagsma. I am an Assistant Professor in Contemp
 Before joining C²DH in August 2017, I worked in a number of different places and settings, see my [CV](/cv/) for more information. You can also check my [talks](/talks) and list of [publications](/publications). Several recent papers and lectures can be found on [Zenodo](https://zenodo.org/search?q=zaagsma&l=list&p=1&s=10&sort=newest).
 
 
-<br/>
+My work currently revolves around three main areas (see [this page](/research) for more details): the history of digital history, censorship of history online, and digital literacy for historians.
 
-## Projects:
-
-My work currently revolves around three main projects (see [this page](/research) for more details):
-* My current **book project** explores the **history and genealogies of digital history**, set within the broader context of the myriad ways in which technology has shaped historical research practices and knowledge production since the late 19th century. I am also involved in a larger collaborative project that seeks to engage the manifold histories of digital humanities. 
-* As a follow-up of previous work on the politics of digitisation and digitised cultural heritage, I am currently researching the **censorship of history online**. This research relates to a long chapter I am preparing for the forthcoming [Palgrave Handbook of Attacks on History](https://www.concernedhistorians.org/content/handbook.html).
-* Finally, my colleague [Milan van Lange](https://www.niod.nl/en/staff/milan-van-lange) and I are building a wiki about **digital literacy for historians**. It is intended as a open, community-driven, online environment about digital literacy for historians which we soon hope to launch (sneak peek [here](https://dh-literacy.org/doku.php?id=start)). 
-
-
-
+  
 <br/>
 
 ## Latest updates:
