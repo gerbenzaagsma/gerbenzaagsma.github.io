@@ -8,9 +8,8 @@ redirect_from:
 ---
 
 
-## Projects:
+## Current projects:
 
-My work currently revolves around three main projects:
 
 ### History of digital history
 My new book project explores the history and genealogies of digital history, set within the broader context of the myriad ways in which technology has shaped historical research practices and knowledge production since the late 19th century. For a recent article, see [Facing the History Machine: Toward Histories of Digital History](https://orbilu.uni.lu/handle/10993/61381). I am also involved in a larger collaborative project that seeks to engage the manifold histories of digital humanities. 
