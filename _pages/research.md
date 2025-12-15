@@ -15,11 +15,11 @@ redirect_from:
 My new book project explores the history and genealogies of digital history, set within the broader context of the myriad ways in which technology has shaped historical research practices and knowledge production since the late 19th century. For a recent article in which I try and set out a possible research agenda, see [Facing the History Machine: Toward Histories of Digital History](https://www.journals.uchicago.edu/doi/10.1086/731827). I am also involved in a larger collaborative project that seeks to engage the manifold histories of digital humanities. 
 
 ### Censoring history online
-As a follow-up of previous work on the [politics of digitisation and digitised cultural heritage](https://doi.org/10.1093/llc/fqac050), I am currently researching the **censorship of history online**. This research relates to a long chapter I am preparing for the forthcoming [Palgrave Handbook of Attacks on History](https://www.concernedhistorians.org/content/handbook.html).
+As a follow-up of previous work on the [politics of digitisation and digitised cultural heritage](https://doi.org/10.1093/llc/fqac050), I am currently researching the censorship of history online. This research relates to a long chapter I am preparing for the forthcoming [Palgrave Handbook of Attacks on History](https://www.concernedhistorians.org/content/handbook.html).
 
 
 ### Digital literacy for historians
-Finally, my colleague [Milan van Lange](https://www.niod.nl/en/staff/milan-van-lange) and I are building a wiki about **digital literacy for historians**. It is intended as an open, community-driven, online environment which we soon hope to launch (you can take a sneak peek [here](https://dh-literacy.org/doku.php?id=start)). 
+Finally, my colleague [Milan van Lange](https://www.niod.nl/en/staff/milan-van-lange) and I are building a wiki about digital literacy for historians. It is intended as an open, community-driven, online environment which we soon hope to launch (you can take a sneak peek [here](https://dh-literacy.org/doku.php?id=start)). 
 
 
 
