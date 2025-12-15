@@ -12,12 +12,13 @@ Welcome to the website of Gerben Zaagsma. I am an Assistant Professor in Contemp
 Before joining C²DH in August 2017, I worked in a number of different places and settings, see my [CV](/cv/) for more information. You can also check my [talks](/talks) and list of [publications](/publications). Several recent papers and lectures can be found on [Zenodo](https://zenodo.org/search?q=zaagsma&l=list&p=1&s=10&sort=newest).
 
 
-At the moment, my work revolves around three main areas: 
-1. **History of digital history**. 
-2. **Censorship of history online**.
-3. **Digital literacy for historians**. 
+At the moment, my work revolves around three main areas:
+ 
+> 1. **History of digital history**. 
+> 2. **Censorship of history online**.
+> 3. **Digital literacy for historians**. 
 
-> See the [research](/research) page for more details.
+See the [research](/research) page for more details.
 
 
   
