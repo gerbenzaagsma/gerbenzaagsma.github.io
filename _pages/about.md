@@ -13,10 +13,10 @@ Before joining C²DH in August 2017, I worked in a number of different places an
 
 
 At the moment, my work revolves around three main areas:
- 
-> 1. **History of digital history**. 
-> 2. **Censorship of history online**.
-> 3. **Digital literacy for historians**. 
+
+> * **History of digital history**. 
+> * **Censorship of history online**.
+> * **Digital literacy for historians**. 
 
 See the [research](/research) page for more details.
 
