@@ -9,7 +9,16 @@ redirect_from:
 
 Welcome to the website of Gerben Zaagsma. I am an Assistant Professor in Contemporary and Digital History at the [Centre for Contemporary and Digital History (C²DH)](https://www.c2dh.uni.lu/) of the University of Luxemburg. With a background in modern Jewish/Yiddish history, my current research and teaching is mostly in the fields of digital and public history, Holocaust and genocide studies, as well as music history.
 
-Before joining C²DH in August 2017, I worked in a number of different places and settings, see my [CV](/cv/) for more information. My current [research](/research/) focuses on the **history of digital history**, as well as the **politics of digitisation** and digitised cultural heritage, seen from a global perspective. You can also check my [talks](/talks) and list of [publications](/publications). Several recent papers and lectures can be found on [Zenodo](https://zenodo.org/search?q=zaagsma&l=list&p=1&s=10&sort=newest).
+Before joining C²DH in August 2017, I worked in a number of different places and settings, see my [CV](/cv/) for more information. You can also check my [talks](/talks) and list of [publications](/publications). Several recent papers and lectures can be found on [Zenodo](https://zenodo.org/search?q=zaagsma&l=list&p=1&s=10&sort=newest).
+
+
+I currently work on three main [research](/research/) and outreach projects:
+* My current **book project** explores the **history and genealogies of digital history**, set within the broader context of the myriad ways in which technology has shaped historical research practices and knowledge production since the late 19th century. 
+* As a follow-up of my previous work on the politics of digitisation and digitised cultural heritage, I am currently researching the **censorship of history online**. this work relates to a long chaoter I am preparing for the forthcoming [Palgrave Handbook of Attacks on History](https://www.concernedhistorians.org/content/handbook.html).
+* Finally, together with my colleague [Milan van Lange](https://www.niod.nl/en/staff/milan-van-lange) at the NIOD Institute for War, Holocaust, and Genocide Studies in Amsterdam, we are building a wiki about digital literacy for historians 
+
+
+
 
 <br/>
 
