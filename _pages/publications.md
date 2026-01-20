@@ -10,11 +10,17 @@ author_profile: true
 ## In progress/ under review:
 ---
 
+### Writing
 * Chapter 'From Mechanical Messiahs to Miracle Machines: Visions and Promises of Technology in the Making of History', special section Technology and the Making of History, _History of Intellectual Culture (HIC) International Yearbook of Knowledge and Society_, Volume 5 (2026). _Under review_.
 * Chapter 'Data in History' in: Pim Huijnen ed., _Engaging with Big and Small Historical Data_ (forthcoming, Routledge). _Under review_.
 * Chapter 'History and the Paradoxes of Digitisation: A Global Perspective' in: edited volume conference [„Geschichte in der digitalen Gegenwart Geschichtsverständnisse zwischen ‚Postfaktizität’ und neuen Evidenzen”](https://zzf-potsdam.de/de/veranstaltungen/geschichte-der-digitalen-gegenwart-geschichtsverstandnisse-zwischen-postfaktizitat) (2025). _Under review_.
 * Chapter 'Silencing History Online' in: De Baets, Antoon ed., _The Palgrave Handbook of Attacks on History_ (forthcoming, Palgrave). _In progress_.
 * Chapter 'Help, Betrayal and the Importance of Networks – Jews in Hiding in the Netherlands and the Case of Anne Frank' (in edited volume on the Anne Frank diaries, Cambridge University Press, 2024/2025). _Accepted_.
+
+
+### Edited volumes
+* _Tracing the History of Digital History_ (Berlin: De Gruyter Brill, forthcoming). Co-edited with Julianne Nyhan, Sébastien Poublanc and Jane Winters.
+* _History of Digital History between East and West_ (Berlin: De Gruyter Brill, forthcoming). Co-edited with Julianne Nyhan and Marek Tamm.
 
 
 
