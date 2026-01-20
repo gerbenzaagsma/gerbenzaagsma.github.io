@@ -11,7 +11,7 @@ redirect_from:
 
 ## PhD theses:
 
-* J. Göke, _Cloud Native Shared Authority: A.I. Enhanced Public Participation in Digital History_ in C²DH doctoral training school [Deep Data Science of Digital History](https://dhh.uni.lu/d4h/) (in progress, supervisor).
+* J. Göke, _The Knowledge of the Old Location_ in C²DH doctoral training school [Deep Data Science of Digital History](https://dhh.uni.lu/d4h/) (in progress, supervisor).
 * J. Urbanek, _KZ Syndrome. Traumatic experience of Auschwitz in medical records, psychological discourse and its cultural representation (1945-1992)»_ (in progress, member thesis committee)
 
 
