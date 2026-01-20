@@ -34,6 +34,4 @@ _See the [research](/research) page for more details._
 <br/>
 <br/>
 
---- 
 
-_Image: [Vicki Bennett](https://peoplelikeus.org/) - Those Who Do Not._
