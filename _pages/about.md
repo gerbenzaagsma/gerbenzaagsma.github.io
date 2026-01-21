@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to the website of Gerben Zaagsma. I am an Assistant Professor in Contemporary History at the [Centre for Contemporary and Digital History (C²DH)](https://www.c2dh.uni.lu/) of the University of Luxemburg. With a background in modern Jewish/Yiddish history, my current research and teaching focus mostly on the fields of digital and public history, Holocaust & genocide studies, as well as music history.
 
-Before joining C²DH in August 2017, I worked in various roles and professonal settings in Italy, Great Britain, the Netherlands and Germany; please see my [CV](/cv/) for more information. You can also check my [talks](/talks) and list of [publications](/publications). Several recent papers and lectures can be found on [Zenodo](https://zenodo.org/search?q=zaagsma&l=list&p=1&s=10&sort=newest).
+Before joining C²DH in August 2017, I worked in various professonal roles and settings in Italy, Great Britain, the Netherlands and Germany; please see my [CV](/cv/) for more information. You can also check my [talks](/talks) and list of [publications](/publications). Several recent papers and lectures can be found on [Zenodo](https://zenodo.org/search?q=zaagsma&l=list&p=1&s=10&sort=newest).
 
 
 ### My work currently revolves around three main areas:
