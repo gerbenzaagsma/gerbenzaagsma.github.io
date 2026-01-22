@@ -9,7 +9,7 @@ author_profile: true
 ## Upcoming
 ---
 
-- 5-6 February 2026, 'Socio-epistemic networks and the Development of Historical Computing', Workshop [History of Digital History between East and West](https://www.uni.lu/c2dh-en/events/history-of-digital-history-between-east-and-west/) (University of Luxembourg).
+- 5-6 February 2026, 'Technology and the Transnational Making of History', Workshop [History of Digital History between East and West](https://www.uni.lu/c2dh-en/events/history-of-digital-history-between-east-and-west/) (University of Luxembourg).
 - 19–22 May 2026, 'Manipulating history online', panel Attacks on History, [Sixth Network Conference of the International Network for Theory of History (INTH)](https://www.inth.ugent.be/node/168602) (Tallinn University).
 - 27-30 August 2026, 'Technology and the Transnational Making of History in the Longue Durée: An Introduction', panel "Technology and the Making of History", [CISH Centennial Conference 2026](https://www.cish.org/index.php/en/) (Leipzig University).
 
@@ -19,7 +19,7 @@ author_profile: true
 
 - 8-10 October 2025, 'Knowledge Circulation, Technology and Historical Knowledge Production', Panel _Knowledge Networks and the History of Humanities Computing_, [History of Knowledge Conference](https://newhistoryofknowledge.com/2025/02/17/the-history-of-knowledge-conference/) (Lund University).
 - 10-12 September 2025, 'Tracing the History of Digital History as Global History' in panel “Global and transregional histories: digitally connected?”, [Eighth European Congress on Universal and Global History](https://research.uni-leipzig.de/~eniugh/congress/) (Linnaeus University, Växjö, Sweden).
-- 3-6 June 2025, 'Probing Transnational Networks in the History of Digital History: Uppsala 1973 and the First Historical Computing Conference', [DH Benelux 2025](https://2025.dhbenelux.org/) (Vrije Universiteit, Amsterdam).
+- 3-6 June 2025, 'Framing Histories of Digital History: The Role of Transnational Networks', [DH Benelux 2025](https://2025.dhbenelux.org/) (Vrije Universiteit, Amsterdam).
 - 26-29 March 2025, 'Framing Histories of Digital History: The Role of Transnational Networks', [15th European Social Science History Conference](https://esshc.iisg.amsterdam/en/esshc-conference-2025) (Leiden University).
 - 21 February 2025, 'The Digital Archive and the Politics of Digitisation', [New Trends in Digital Culture Studies, Online Workshop 1: Creation of the Digital Archive](https://dight-net.tlu.ee/event/online-workshop-creation-of-a-digital-archive/) (DIGHT-Net workshop). Recording [here](https://www.youtube.com/watch?v=NO3vFIAwnMs).
 
