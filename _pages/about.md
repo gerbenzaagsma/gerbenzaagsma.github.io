@@ -17,7 +17,7 @@ Before joining C²DH in August 2017, I worked in various professonal roles and s
 * Censorship of history online
 * Digital literacy for historians
 
-See the _[research](/research)_ page for more details.
+See the [research](/research) page for more details.
 
 
   
