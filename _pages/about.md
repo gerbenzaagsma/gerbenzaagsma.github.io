@@ -24,7 +24,7 @@ See the [research](/research) page for more details.
 <br/>
 
 ## Latest updates:
-* Program out now: [Workshop History of Digital History between East and West](https://www.uni.lu/c2dh-en/events/history-of-digital-history-between-east-and-west/), 5-6 february 2026 in Luxembourg.
+* Program out now: [Workshop History of Digital History between East and West](https://www.uni.lu/c2dh-en/events/history-of-digital-history-between-east-and-west/), 5-6 february 2026 in Luxembourg. The book of abstracts can be downloaded on [Zenodo](https://zenodo.org/records/18416407).
 * New article: [Facing the History Machine: Toward Histories of Digital History](https://orbilu.uni.lu/handle/10993/61381) in _History of Humanities_ 9/2 (2024) 451-491.
 * The recording of my keynote lecture 'When Literacy Goes Digital: Rethinking the Ethics and Politics of Digitisation' for [Digital History Switzerland 2024](https://digihistch24.github.io/book-of-abstracts/submissions/keynote/) is now [available on Zenodo](https://zenodo.org/records/14340336).
 * Now online: recording of [Creating Digital Archives: A Workshop with Gerben Zaagsma & Merit Maran](https://www.youtube.com/watch?v=NO3vFIAwnMs).
