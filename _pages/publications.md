@@ -19,8 +19,8 @@ author_profile: true
 
 
 ### As (co-)editor
-* _Tracing the History of Digital History_ (Berlin: De Gruyter Brill, forthcoming). Co-edited with Julianne Nyhan, Sébastien Poublanc and Jane Winters.
-* _History of Digital History between East and West_ (Berlin: De Gruyter Brill, forthcoming). Co-edited with Julianne Nyhan and Marek Tamm.
+* _Tracing the History of Digital History_ (Berlin: De Gruyter Brill, forthcoming). Co-edited with Julianne Nyhan, Sébastien Poublanc and Jane Winters. _In progress_.
+* _History of Digital History between East and West_ (Berlin: De Gruyter Brill, forthcoming). Co-edited with Julianne Nyhan and Marek Tamm. _In progress_.
 
 
 
