@@ -14,6 +14,7 @@ author_profile: true
 
 
 ## 2026
+- 9 February 2026, 'Technology and the Making of History', TASTE Talks – [On art, nature and technology](https://www.uni.lu/life-en/events/taste-on-art-nature-and-technology/) (University of Luxembourg).
 - 5-6 February 2026, 'Technology and the Transnational Making of History: The Development of Historical Computing in the 1960s and 1970s', Workshop [History of Digital History between East and West](https://www.uni.lu/c2dh-en/events/history-of-digital-history-between-east-and-west/) (University of Luxembourg).
 
 	
