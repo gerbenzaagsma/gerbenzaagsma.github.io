@@ -10,6 +10,7 @@ author_profile: true
 ---
 
 - 19–22 May 2026, 'Manipulating history online', panel Attacks on History, [Sixth Network Conference of the International Network for Theory of History (INTH)](https://www.inth.ugent.be/node/168602) (Tallinn University).
+- 2-5 June 2026, 'Silencing History Online', poster presentation [Digital Humanities Benelux 2026](https://2026.dhbenelux.org/) (Maastricht University).
 - 27-30 August 2026, 'Technology and the Transnational Making of History in the Longue Durée: An Introduction', panel "Technology and the Making of History", [CISH Centennial Conference 2026](https://www.cish.org/index.php/en/) (Leipzig University).
 
 
