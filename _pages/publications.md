@@ -12,10 +12,10 @@ author_profile: true
 
 ### As author
 * Chapter 'From Mechanical Messiahs to Miracle Machines: Visions and Promises of Technology in the Making of History', special section Technology and the Making of History, _History of Intellectual Culture (HIC) International Yearbook of Knowledge and Society_, Volume 5 (2026). _Under review_.
-* Chapter 'Data in History' in: Pim Huijnen ed., _Engaging with Big and Small Historical Data_ (forthcoming, Routledge). _Under review_.
-* Chapter 'History and the Paradoxes of Digitisation: A Global Perspective' in: edited volume conference [„Geschichte in der digitalen Gegenwart Geschichtsverständnisse zwischen ‚Postfaktizität’ und neuen Evidenzen”](https://zzf-potsdam.de/de/veranstaltungen/geschichte-der-digitalen-gegenwart-geschichtsverstandnisse-zwischen-postfaktizitat) (2025). _Under review_.
+* Chapter 'Data in History' in: Pim Huijnen ed., _Engaging with Big and Small Historical Data_ (forthcoming, Routledge). _Accepted_.
 * Chapter 'Silencing History Online' in: De Baets, Antoon ed., _The Palgrave Handbook of Attacks on History_ (forthcoming, Palgrave). _In progress_.
-* Chapter 'Help, Betrayal and the Importance of Networks – Jews in Hiding in the Netherlands and the Case of Anne Frank' (in edited volume on the Anne Frank diaries, Cambridge University Press, 2024/2025). _Accepted_.
+* Chapter 'History and the Paradoxes of Digitisation: A Global Perspective' in: edited volume conference [„Geschichte in der digitalen Gegenwart Geschichtsverständnisse zwischen ‚Postfaktizität’ und neuen Evidenzen”](https://zzf-potsdam.de/de/veranstaltungen/geschichte-der-digitalen-gegenwart-geschichtsverstandnisse-zwischen-postfaktizitat) (2025). _Forthcoming_.
+* Chapter 'Help, Betrayal and the Importance of Networks – Jews in Hiding in the Netherlands and the Case of Anne Frank' (in edited volume on the Anne Frank diaries, Cambridge University Press, 2024/2025). _Forthcoming_.
 
 
 ### As (co-)editor
@@ -30,7 +30,7 @@ author_profile: true
 - [Handbook of Digital Public History](https://www.degruyter.com/document/doi/10.1515/9783110430295/html) (Berlin: De Gruyter Oldenbourg, 2022). Co-edited with Serge Noiret and Mark Tebeau.
 - [Jewish Studies in the Digital Age](https://www.degruyter.com/document/doi/10.1515/9783110744828/html) (Berlin: De Gruyter, 2022). Co-edited with Amalia Levi, Michelle Margolis, Miriam Rürup and Daniel Stökl Ben Ezra.
 - [Integrating Digital Humanities](https://journal.dhbenelux.org/volume-1-integrating-digital-humanities/), inaugural issue of [DH Benelux journal](https:///web.archive.org/web/20231022070908/http://journal.dhbenelux.org/) (2019). Co-edited with Julie Birkholz.
-- [Jewish Volunteers, the International Brigades and the Spanish Civil War](http://www.bloomsbury.com/uk/jewish-volunteers-the-international-brigades-and-the-spanish-civil-war-9781472505491/) (London; Bloomsbury Academic, 2017).
+- [Jewish Volunteers, the International Brigades and the Spanish Civil War](http://www.bloomsbury.com/uk/jewish-volunteers-the-international-brigades-and-the-spanish-civil-war-9781472505491/) (London; Bloomsbury Academic, 2017). [Introduction](https://gerbenzaagsma.github.io/files/Zaagsma-2017-Jewish-Volunteers-Introduction.pdf).
 - [Digital History](https://bmgn-lchr.nl/issue/view/31), special issue _BMGN - Low Countries Historical Review_ 128/4 (2013). Editor.
 - _Life and Work of Ferdinand Domela Nieuwenhuis_ (CD-ROM; University of Groningen, 1998). Editor (in Dutch).
 - [The Folkinge Street. History of the Jewish community in Groningen](https://www.worldcat.org/nl/title/469368175) (Groningen; Egbert Forsten, 1996). Co-edited with Lies Ast-Boiten (in Dutch).
