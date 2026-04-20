@@ -24,7 +24,7 @@ See the [research](/research) page for more details.
 <br/>
 
 ## Latest updates:
-* Slides for my lecture _Facing the History Machine: Why Histories of Digital History Matter_, 15 April 2026, Open Research Colloquim in Digital History at Humbboldt University in Berlin, are available now on [Zenodo](https://zenodo.org/records/19652044. Recording to follow. 
+* The slides for my online lecture _Facing the History Machine: Why Histories of Digital History Matter_, on 15 April 2026 are available on [Zenodo](https://zenodo.org/records/19652044. A recording will follow. 
 * Program out now: [Workshop History of Digital History between East and West](https://www.uni.lu/c2dh-en/events/history-of-digital-history-between-east-and-west/), 5-6 february 2026 in Luxembourg. The book of abstracts can be downloaded on [Zenodo](https://zenodo.org/records/18416407).
 * New article: [Facing the History Machine: Toward Histories of Digital History](https://orbilu.uni.lu/handle/10993/61381) in _History of Humanities_ 9/2 (2024) 451-491.
 * The recording of my keynote lecture 'When Literacy Goes Digital: Rethinking the Ethics and Politics of Digitisation' for [Digital History Switzerland 2024](https://digihistch24.github.io/book-of-abstracts/submissions/keynote/) is now [available on Zenodo](https://zenodo.org/records/14340336).
