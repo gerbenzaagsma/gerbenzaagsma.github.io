@@ -13,9 +13,9 @@ redirect_from:
 
 
 Since **2017**, I have taught the following BA and MA courses at the **University of Luxembourg** in our [Bachelor in European Cultures (BCE)](https://www.uni.lu/fhse-en/study-programs/master-en-histoire-europeenne-contemporaine/), [Master in European Contemporary History (MAHEC)](https://www.uni.lu/fhse-en/study-programs/master-en-histoire-europeenne-contemporaine/), and [Master in Digital and Public History (MADiPH)](https://www.uni.lu/fhse-en/study-programs/master-in-digital-and-public-history/) programmes:
+* 2023-2026: MA seminar Debating Genocide and Mass Violence in the 21st Century: Europe and Beyond. _MAHEC_
+* 2020-2026: BA seminar Music and Contemporary History. _BCE_
 * 2024-2025: MA seminar Introduction to Digital History (as convener and co-lecturer). _MADiPH_
-* 2023-2025: MA seminar Debating Genocide and Mass Violence in the 21st Century: Europe and Beyond. _MAHEC_
-* 2020-2025: BA seminar Music and Contemporary History. _BCE_
 * 2020-2022: MA seminar Beyond the Diary of Anne Frank: Egodocuments and the Construction of Holocaust Memory. _MAHEC_
 * 2019-2022: MA seminar Introduction to Digital History/ Winter School in Digital History (as convener, coordinator, co-lecturer). _MAHEC_
 * 2019-2020: MA seminar Doing Digital History - The International Brigades in the Spanish Civil War. _MAHEC_
