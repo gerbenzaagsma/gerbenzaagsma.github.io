@@ -9,12 +9,13 @@ author_profile: true
 ## Upcoming
 ---
 
-- 19–22 May 2026, 'Manipulating history online', panel Attacks on History, [Sixth Network Conference of the International Network for Theory of History (INTH)](https://www.inth.ugent.be/node/168602) (Tallinn University).
+
 - 27-30 August 2026, 'Technology and the Transnational Making of History in the Longue Durée: An Introduction', panel _Technology and the Making of History_, [CISH Centennial Conference 2026](https://www.cish.org/index.php/en/) (Leipzig University).
 - 8-11 October 2026, 'Networking early computing historians in the Cold War period', panel _The Cold War and the Computerization of Scientific Disciplines_, [53rd ICOHTEC Annual Meeting](https://www.icohtec.org/w-annual-meeting/) (Alexandroupolis, Greece).
 
 
 ## 2026
+- 20 May 2026, 'Interventions in History Online', Panel _Attacks on History III_, [Sixth Network Conference of the International Network for Theory of History (INTH)](https://www.inth.ugent.be/node/168602) (Tallinn University, 19-22 May 2026).
 - 15 April 2026, 'Facing the History Machine: Why Histories of Digital History Matter', [Digital History: Aktuelle Entwicklungen und neue Ansätze](https://dhistory.hypotheses.org/digital-history-forschungskolloquium/programm-summer-term-2026), Offenes Forschungskolloquium und Ringvorlesung, Sommer Semester 2026 (Humboldt University, Berlin). See [abstract & slides](https://zenodo.org/records/19652044) and the recording on [Youtube](https://www.youtube.com/watch?v=NXMUeoJ87lo).
 - 9 February 2026, 'Technology and the Making of History', TASTE Talks – [On art, nature and technology](https://www.uni.lu/life-en/events/taste-on-art-nature-and-technology/) (University of Luxembourg).
 - 5-6 February 2026, 'Technology and the Transnational Making of History: The Development of Historical Computing in the 1960s and 1970s', Workshop [History of Digital History between East and West](https://www.uni.lu/c2dh-en/events/history-of-digital-history-between-east-and-west/) (University of Luxembourg).
