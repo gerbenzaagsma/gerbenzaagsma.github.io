@@ -31,6 +31,7 @@ redirect_from:
 
 ## BA theses:
 
+* K. Bleron, _Luxemburg rappt.Entstehung, Strukturen und Themen der lokalen Rap -Szene von den 1980er-Jahren bis etwa 2010_ (2025-2026, second reader).
 * N. Zigliana, _Luxemburgische Berichterstattung über die 30. Mai Bewegung in China_ (2022-2023, supervisor).
 * L. Wiltgen, _Die CFL in der Nachkriegszeit. Gründung und Aufbau einer „luxemburgischen“ Eisenbahn?_ (2022-2023, second reader).
 * A. Ceman, _Exploring the Role of Music in the Yugoslav Wars_ (2021-2022, supervisor).
