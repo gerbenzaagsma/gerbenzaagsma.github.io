@@ -24,6 +24,7 @@ See the [research](/research) page for more details.
 <br/>
 
 ## Latest updates:
+* The slides for my presentation _Interventions in History Online_ at the 6th INTH conference in Tallinn are available on [Zenodo](https://doi.org/10.5281/zenodo.20472708).
 * The slides and recording for my online lecture _Facing the History Machine: Why Histories of Digital History Matter_, on 15 April 2026 are available on [Zenodo](https://zenodo.org/records/19652044) and [Youtube](https://www.youtube.com/watch?v=NXMUeoJ87lo).
 * Program out now: [Workshop History of Digital History between East and West](https://www.uni.lu/c2dh-en/events/history-of-digital-history-between-east-and-west/), 5-6 february 2026 in Luxembourg. The book of abstracts can be downloaded on [Zenodo](https://zenodo.org/records/18416407).
 * New article: [Facing the History Machine: Toward Histories of Digital History](https://orbilu.uni.lu/handle/10993/61381) in _History of Humanities_ 9/2 (2024) 451-491.
