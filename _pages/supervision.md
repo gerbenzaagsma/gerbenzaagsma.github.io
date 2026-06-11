@@ -30,6 +30,7 @@ redirect_from:
 
 ## BA theses:
 
+* L. Alvarez Feijoo, _La mémoire des volontaires luxembourgeois dans les Brigades internationales_ (2025-2026, second reader).
 * K. Bleron, _Luxemburg rappt. Entstehung, Strukturen und Themen der lokalen Rap -Szene von den 1980er-Jahren bis etwa 2010_ (2025-2026, second reader).
 * F. Brekelmans, _The four Luxembourgish soldiers in the Commando Kieffer. History and Memory_ (2024-2025, second reader).
 * N. Zigliana, _Luxemburgische Berichterstattung über die 30. Mai Bewegung in China_ (2022-2023, supervisor).
