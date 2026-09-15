@@ -9,6 +9,7 @@ author_profile: true
 ## Upcoming
 ---
 - 8-11 October 2026, 'Networking early computing historians in the Cold War period', panel _The Cold War and the Computerization of Scientific Disciplines_, [53rd ICOHTEC Annual Meeting](https://www.icohtec.org/w-annual-meeting/) (Alexandroupolis, Greece).
+- 29-31 October 2026, 'Manipulating History Online', International Conference [Attacks on History and Historians - Historical Studies, History Education, and Freedom](https://acadeurobucharest.eu/2026/07/28/attacks-on-history-and-historians-historical-studies-history-education-and-freedom/) (Academia Română, Bucharest).
 - 21-24 April 2027, 'Historicising Data Practices in Historical Research', [16th European Social Science History Conference](https://esshc.iisg.amsterdam/en/esshc-conference-2025) (ENS Lyon).
 
 
