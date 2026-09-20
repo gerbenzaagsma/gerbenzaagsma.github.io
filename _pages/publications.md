@@ -11,9 +11,10 @@ author_profile: true
 ---
 
 ### As author
+* Chapter 'Transnational Networks in the History of Digital History: The Development of Early Historical Computing in the 1960s and 1970s' in: Gerben Zaagsma, Marek Tamm, Julianne Nyhan, Petri Paju and Nadezhda Povroznik eds., _History of Digital History between East and West_ (Berlin: De Gruyter Brill, forthcoming). _In progress_.
 * Chapter 'Silencing History Online' in: De Baets, Antoon ed., _The Palgrave Handbook of Attacks on History_ (forthcoming, Palgrave). _In progress_.
 * Chapter 'Historicising Data and Data Practices in Historical Research' in: Pim Huijnen ed., _Engaging with Big and Small Historical Data_ (forthcoming, Routledge). _Accepted_.
-* Chapter 'History as Science: Virtues and Promises of Technology in the Making of History', special section Technology and the Making of History, _History of Intellectual Culture (HIC) International Yearbook of Knowledge and Society_, Volume 5 (2026). _Forthcoming_.
+* Article 'History as Science: Virtues and Promises of Technology in the Making of History', special section Technology and the Making of History, _History of Intellectual Culture (HIC) International Yearbook of Knowledge and Society_, Volume 5 (2026). _Forthcoming_.
 * Chapter 'Help, Betrayal and the Importance of Networks – Jews in Hiding in the Netherlands and the Case of Anne Frank' (in edited volume on the Anne Frank diaries, Cambridge University Press, 2026). _Forthcoming_.
 * Chapter 'Digitisation and History in a Global Perspective' in:  Simon Donig, Andreas Fickers, Mareike König, and Achim Saupe eds., _Geschichte in der digitalen Gegenwart. Zwischen "Postfaktizität" und neuen Evidenzpraktiken_ (DeGruyter Brill, 2027). _Forthcoming_.
 * Chapter 'Digital History' [with Andreas Fickers] in: Stefan Berger, Heiko Feldner, Lizette Jacinto, and Kevin Passmore eds., _Writing History: Theory and Practice_, 4th edition (London: Bloomsbury, 2027). 
