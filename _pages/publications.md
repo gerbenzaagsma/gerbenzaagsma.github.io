@@ -16,6 +16,7 @@ author_profile: true
 * Chapter 'History as Science: Virtues and Promises of Technology in the Making of History', special section Technology and the Making of History, _History of Intellectual Culture (HIC) International Yearbook of Knowledge and Society_, Volume 5 (2026). _Forthcoming_.
 * Chapter 'Help, Betrayal and the Importance of Networks – Jews in Hiding in the Netherlands and the Case of Anne Frank' (in edited volume on the Anne Frank diaries, Cambridge University Press, 2026). _Forthcoming_.
 * Chapter 'Digitisation and History in a Global Perspective' in:  Simon Donig, Andreas Fickers, Mareike König, and Achim Saupe eds., _Geschichte in der digitalen Gegenwart. Zwischen "Postfaktizität" und neuen Evidenzpraktiken_ (DeGruyter Brill, 2027). _Forthcoming_.
+* Chapter 'Digital History' [with Andreas Fickers] in: Stefan Berger, Heiko Feldner, Lizette Jacinto, and Kevin Passmore eds., _Writing History: Theory and Practice_ (London: Bloomsbury, 2027). 
 
 
 ### As (co-)editor
