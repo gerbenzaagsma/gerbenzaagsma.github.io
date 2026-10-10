@@ -8,12 +8,12 @@ author_profile: true
 
 ## Upcoming
 ---
-- 8-11 October 2026, 'Networking early computing historians in the Cold War period', panel _The Cold War and the Computerization of Scientific Disciplines_, [53rd ICOHTEC Annual Meeting](https://www.icohtec.org/w-annual-meeting/) (Alexandroupolis, Greece).
 - 29-31 October 2026, 'Interventions in History Online', International Conference [Attacks on History and Historians - Historical Studies, History Education, and Freedom](https://acadeurobucharest.eu/2026/07/28/attacks-on-history-and-historians-historical-studies-history-education-and-freedom/) (Academia Europaea Bucharest Hub, Academia Română, Bucharest).
 - 21-24 April 2027, 'Historicising Data Practices in Historical Research', [16th European Social Science History Conference](https://esshc.iisg.amsterdam/en/esshc-conference-2025) (ENS Lyon).
 
 
 ## 2026
+- 8-11 October 2026, 'Networking early computing historians in the Cold War period', panel _The Cold War and the Computerization of Scientific Disciplines_, [53rd ICOHTEC Annual Meeting](https://www.icohtec.org/w-annual-meeting/) (Alexandroupolis, Greece).
 - 27-30 August 2026, 'Technology and the Transnational Making of History', panel _Technology and the Making of History_, [CISH Centennial Conference 2026](https://www.cish.org/index.php/en/) (Leipzig University).
 - 20 May 2026, 'Interventions in History Online', Panel _Attacks on History III_, [Sixth Network Conference of the International Network for Theory of History (INTH)](https://www.inth.ugent.be/node/168602) (Tallinn University, 19-22 May 2026). See [slides](https://doi.org/10.5281/zenodo.20472708).
 - 15 April 2026, 'Facing the History Machine: Why Histories of Digital History Matter', [Digital History: Aktuelle Entwicklungen und neue Ansätze](https://dhistory.hypotheses.org/digital-history-forschungskolloquium/programm-summer-term-2026), Offenes Forschungskolloquium und Ringvorlesung, Sommer Semester 2026 (Humboldt University, Berlin). See [abstract & slides](https://zenodo.org/records/19652044) and the recording on [Youtube](https://www.youtube.com/watch?v=NXMUeoJ87lo).
