@@ -8,7 +8,7 @@ author_profile: true
 
 ## Upcoming
 ---
-- 28 October 2026, 'Introduction to Digital History', Faculty of History, University of Bucharest.
+- 28 October 2026, 'Digital History and the Historian’s Craft: Genealogies, Epistemologies, Futures', Faculty of History, University of Bucharest.
 - 29-31 October 2026, 'Interventions in History Online', International Conference [Attacks on History and Historians - Historical Studies, History Education, and Freedom](https://acadeurobucharest.eu/2026/07/28/attacks-on-history-and-historians-historical-studies-history-education-and-freedom/) (Academia Europaea Bucharest Hub, Academia Română, Bucharest).
 - 21-24 April 2027, 'Historicising Data Practices in Historical Research', [16th European Social Science History Conference](https://esshc.iisg.amsterdam/en/esshc-conference-2025) (ENS Lyon).
 
