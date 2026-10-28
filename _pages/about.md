@@ -24,6 +24,7 @@ See the [research](/research) page for more details.
 <br/>
 
 ## Latest updates:
+* The slides for my presentation _Digital History and the Historian’s Craft: Genealogies, Epistemologies, Futures_ given at the Faculty of History of the University of Bucharest on 28/10/2026 are available on [Zenodo](https://zenodo.org/records/23743611).
 * The upcoming [5th yearbook _History of Intellectual Culture (HIC)_](https://www.degruyterbrill.com/document/isbn/9783112269442/html#overview) will feature a thematic section _Technology and the Making of History_: it features contributions by Edgar Lejeune, Julianne Nyhan , Kajsa Weber and myself.
 * The slides for my presentation _Interventions in History Online_ at the 6th INTH conference in Tallinn are available on [Zenodo](https://doi.org/10.5281/zenodo.20472708).
 * The slides and recording for my online lecture _Facing the History Machine: Why Histories of Digital History Matter_, on 15 April 2026 are available on [Zenodo](https://zenodo.org/records/19652044) and [Youtube](https://www.youtube.com/watch?v=NXMUeoJ87lo).

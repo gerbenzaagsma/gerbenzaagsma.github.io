@@ -13,7 +13,7 @@ author_profile: true
 
 
 ## 2026
-- 28 October 2026, 'Digital History and the Historian’s Craft: Genealogies, Epistemologies, Futures', Faculty of History, University of Bucharest.
+- 28 October 2026, 'Digital History and the Historian’s Craft: Genealogies, Epistemologies, Futures', Faculty of History, University of Bucharest. See [slides](https://zenodo.org/records/23743611).
 - 8-11 October 2026, 'Networking early computing historians in the Cold War period', panel _The Cold War and the Computerization of Scientific Disciplines_, [53rd ICOHTEC Annual Meeting](https://www.icohtec.org/w-annual-meeting/) (Alexandroupolis, Greece).
 - 27-30 August 2026, 'Technology and the Transnational Making of History', panel _Technology and the Making of History_, [CISH Centennial Conference 2026](https://www.cish.org/index.php/en/) (Leipzig University).
 - 20 May 2026, 'Interventions in History Online', Panel _Attacks on History III_, [Sixth Network Conference of the International Network for Theory of History (INTH)](https://www.inth.ugent.be/node/168602) (Tallinn University, 19-22 May 2026). See [slides](https://doi.org/10.5281/zenodo.20472708).
